@@ -1,0 +1,12 @@
+{
+  "variance": {
+    "trend": "increasing",
+    "slope": 4.721479514522674e-05,
+    "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+  },
+  "score_range_90_10": {
+    "trend": "increasing",
+    "slope": 0.0027240496901959543,
+    "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+  }
+}

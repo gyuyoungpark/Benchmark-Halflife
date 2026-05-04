@@ -1,0 +1,14 @@
+model,score,release_date,source
+BERT-base,66.1,2019-06-01,Wang et al. 2019 SuperGLUE paper
+BERT-large,69.0,2019-06-01,Wang et al. 2019 SuperGLUE paper
+BERT++,71.5,2019-07-01,SuperGLUE leaderboard
+RoBERTa,84.6,2019-08-01,Liu et al. 2019
+RoBERTa-mnli,84.6,2019-09-01,SuperGLUE leaderboard
+T5-11B,89.3,2019-10-01,Raffel et al. 2019
+MT-DNN-ensemble,87.6,2019-12-01,SuperGLUE leaderboard
+DeBERTa,89.9,2020-06-01,He et al. 2020
+DeBERTa-large,90.3,2020-11-01,He et al. 2020
+ERNIE-2.0,90.4,2020-12-01,Sun et al. 2020
+T5+UDG,90.4,2021-01-01,SuperGLUE leaderboard
+DeBERTa-v3,91.1,2021-11-01,He et al. 2021
+ST-MoE-32B,91.2,2022-02-01,Zoph et al. 2022

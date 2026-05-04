@@ -1,0 +1,29 @@
+{
+  "v1_leave_last_out": {
+    "arc_challenge": {
+      "halflife_train_mo": 4.6,
+      "halflife_full_mo": 2.7,
+      "delta_mo": 1.8
+    },
+    "hellaswag": {
+      "halflife_train_mo": 3.7,
+      "halflife_full_mo": 2.5,
+      "delta_mo": 1.2
+    },
+    "winogrande": {
+      "halflife_train_mo": 1.5,
+      "halflife_full_mo": 1.0,
+      "delta_mo": 0.5
+    }
+  },
+  "bbh_v2_8_5_split": {
+    "halflife_train_mo": 84.9,
+    "halflife_full_mo": 39.3,
+    "predicted_test_var_q11": 0.00281,
+    "actual_test_var_q11": 0.00106,
+    "predicted_test_var_q13": 0.00274,
+    "actual_test_var_q13": 0.0007,
+    "log_mae": 1.168
+  },
+  "interpretation": "Framework is directionally reliable; exponential fits on early data systematically overestimate halflife due to honeymoon-then-collapse trajectory."
+}

@@ -1,0 +1,12 @@
+model,score,release_date,source
+BERT-base,75.1,2018-10-01,Devlin et al. 2018
+BERT-large,81.8,2018-10-01,Devlin et al. 2018
+SpanBERT,88.7,2019-07-01,Joshi et al. 2019
+XLNet,88.8,2019-06-01,Yang et al. 2019
+RoBERTa,89.4,2019-07-01,Liu et al. 2019
+ALBERT,89.7,2019-09-01,Lan et al. 2019
+ELECTRA,90.9,2020-03-01,Clark et al. 2020
+LUKE,90.2,2020-10-01,Yamada et al. 2020
+T5-11B,91.3,2019-10-01,Raffel et al. 2019
+DeBERTa-large,90.8,2020-11-01,He et al. 2020
+DeBERTa-v3,91.0,2021-11-01,He et al. 2021

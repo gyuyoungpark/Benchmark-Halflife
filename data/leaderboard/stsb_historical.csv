@@ -1,0 +1,13 @@
+model,score,release_date,source
+InferSent,75.8,2017-05-01,Conneau et al. 2017
+ELMo,75.0,2018-02-01,Peters et al. 2018
+GPT,82.0,2018-06-01,Radford et al. 2018
+BERT-base,85.8,2018-10-01,Devlin et al. 2018
+BERT-large,86.5,2018-10-01,Devlin et al. 2018
+XLNet,89.5,2019-06-01,Yang et al. 2019
+RoBERTa,92.2,2019-07-01,Liu et al. 2019
+ALBERT,92.5,2019-09-01,Lan et al. 2019
+T5-11B,92.8,2019-10-01,Raffel et al. 2019
+ELECTRA,92.6,2020-03-01,Clark et al. 2020
+DeBERTa,92.8,2020-06-01,He et al. 2020
+DeBERTa-v3,93.0,2021-11-01,He et al. 2021

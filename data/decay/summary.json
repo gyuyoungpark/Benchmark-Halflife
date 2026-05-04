@@ -1,0 +1,74 @@
+{
+  "bbh": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 0.00038407493270930994,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.009359449247827976,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  },
+  "gpqa": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 4.721479514522674e-05,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.0027240496901959543,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  },
+  "ifeval": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 0.0013605966030333712,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.01597061269312439,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  },
+  "math_lvl5": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 0.0006643701664201478,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.011449220530278472,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  },
+  "mmlu_pro": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 0.0005248426855340622,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.011382216793007459,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  },
+  "musr": {
+    "variance": {
+      "trend": "increasing",
+      "slope": 4.7076381289804046e-05,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    },
+    "score_range_90_10": {
+      "trend": "increasing",
+      "slope": 0.0021843258977973087,
+      "note": "Discriminative power is INCREASING, not decaying. This benchmark has not yet saturated."
+    }
+  }
+}

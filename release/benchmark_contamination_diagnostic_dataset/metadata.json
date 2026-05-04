@@ -1,0 +1,38 @@
+{
+  "name": "Benchmark Contamination Diagnostic Dataset (BCDD)",
+  "version": "1.0",
+  "description": "Perturbation-holdout pairs for 7 LLM benchmarks. Each item contains an original benchmark question paired with a semantically-equivalent perturbation. A positive gap (orig > pert accuracy) indicates memorization.",
+  "benchmarks": {
+    "mmlu": {
+      "items": 228,
+      "perturbation_type": "MCQ paraphrase"
+    },
+    "arc": {
+      "items": 200,
+      "perturbation_type": "MCQ paraphrase"
+    },
+    "gsm8k": {
+      "items": 200,
+      "perturbation_type": "Number substitution"
+    },
+    "truthfulqa": {
+      "items": 200,
+      "perturbation_type": "MCQ paraphrase"
+    },
+    "humaneval": {
+      "items": 164,
+      "perturbation_type": "Docstring rewrite"
+    },
+    "mbpp": {
+      "items": 200,
+      "perturbation_type": "Identifier rename"
+    },
+    "mmlu_pro": {
+      "items": 196,
+      "perturbation_type": "MCQ paraphrase"
+    }
+  },
+  "total_pairs": 1388,
+  "license": "MIT",
+  "citation": "Anonymous (2026). The Discriminative Half-Life of LLM Benchmarks. NeurIPS E&D."
+}

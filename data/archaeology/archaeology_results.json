@@ -1,0 +1,52 @@
+{
+  "glue": {
+    "halflife_mo": 4.946844894425928,
+    "D0": 18.61931793372118,
+    "diversity": 3,
+    "n_items": 65000,
+    "ceiling": 100,
+    "n_data_points": 13,
+    "first_date": "2018-06",
+    "last_date": "2022-01"
+  },
+  "superglue": {
+    "halflife_mo": 1.4516781364108278,
+    "D0": 23.413753416477316,
+    "diversity": 4,
+    "n_items": 5000,
+    "ceiling": 100,
+    "n_data_points": 12,
+    "first_date": "2019-06",
+    "last_date": "2022-02"
+  },
+  "squad11": {
+    "halflife_mo": 10.829668434829674,
+    "D0": 24.850277001179098,
+    "diversity": 2,
+    "n_items": 10570,
+    "ceiling": 100,
+    "n_data_points": 11,
+    "first_date": "2016-12",
+    "last_date": "2021-02"
+  },
+  "squad20": {
+    "halflife_mo": 3.9257653274984405,
+    "D0": 9.760913649251544,
+    "diversity": 2,
+    "n_items": 11873,
+    "ceiling": 100,
+    "n_data_points": 9,
+    "first_date": "2018-10",
+    "last_date": "2021-11"
+  },
+  "coqa": {
+    "halflife_mo": 1.0352520862886763,
+    "D0": 32.85293892153104,
+    "diversity": 2,
+    "n_items": 7983,
+    "ceiling": 100,
+    "n_data_points": 8,
+    "first_date": "2018-08",
+    "last_date": "2021-11"
+  }
+}

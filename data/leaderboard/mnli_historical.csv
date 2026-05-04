@@ -1,0 +1,15 @@
+model,score,release_date,source
+ESIM,72.4,2017-09-01,Williams et al. 2017
+InferSent,72.2,2017-05-01,Conneau et al. 2017
+GPT,82.1,2018-06-01,Radford et al. 2018
+BERT-base,84.6,2018-10-01,Devlin et al. 2018
+BERT-large,86.7,2018-10-01,Devlin et al. 2018
+MT-DNN,87.1,2019-01-01,Liu et al. 2019
+XLNet,89.8,2019-06-01,Yang et al. 2019
+RoBERTa,90.2,2019-07-01,Liu et al. 2019
+ALBERT,90.8,2019-09-01,Lan et al. 2019
+T5-11B,90.6,2019-10-01,Raffel et al. 2019
+ELECTRA,90.9,2020-03-01,Clark et al. 2020
+DeBERTa,91.1,2020-06-01,He et al. 2020
+ERNIE-3.0,91.4,2021-07-01,Sun et al. 2021
+DeBERTa-v3,91.8,2021-11-01,He et al. 2021

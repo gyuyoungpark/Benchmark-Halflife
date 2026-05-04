@@ -1,0 +1,57 @@
+{
+  "mmlu": {
+    "n_items": 228,
+    "category_counts": {
+      "all_correct": 119,
+      "difficulty_drift": 47,
+      "discriminating": 33,
+      "noisy": 14,
+      "all_wrong": 9,
+      "contamination_signature": 6
+    },
+    "category_fractions": {
+      "all_correct": 0.5219298245614035,
+      "difficulty_drift": 0.20614035087719298,
+      "discriminating": 0.14473684210526316,
+      "noisy": 0.06140350877192982,
+      "all_wrong": 0.039473684210526314,
+      "contamination_signature": 0.02631578947368421
+    }
+  },
+  "arc": {
+    "n_items": 200,
+    "category_counts": {
+      "all_correct": 150,
+      "difficulty_drift": 29,
+      "noisy": 12,
+      "discriminating": 7,
+      "all_wrong": 2
+    },
+    "category_fractions": {
+      "all_correct": 0.75,
+      "difficulty_drift": 0.145,
+      "noisy": 0.06,
+      "discriminating": 0.035,
+      "all_wrong": 0.01
+    }
+  },
+  "gsm8k": {
+    "n_items": 200,
+    "category_counts": {
+      "all_correct": 110,
+      "difficulty_drift": 33,
+      "contamination_signature": 32,
+      "noisy": 17,
+      "discriminating": 7,
+      "all_wrong": 1
+    },
+    "category_fractions": {
+      "all_correct": 0.55,
+      "difficulty_drift": 0.165,
+      "contamination_signature": 0.16,
+      "noisy": 0.085,
+      "discriminating": 0.035,
+      "all_wrong": 0.005
+    }
+  }
+}

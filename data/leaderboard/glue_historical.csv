@@ -1,0 +1,15 @@
+model,score,release_date,source
+BERT-base,78.3,2018-10-01,Devlin et al. 2018
+BERT-large,80.5,2018-10-01,Devlin et al. 2018
+GPT (OpenAI),72.8,2018-06-01,Radford et al. 2018
+MT-DNN,82.7,2019-01-01,Liu et al. 2019
+XLNet,88.4,2019-06-01,Yang et al. 2019
+RoBERTa,88.5,2019-07-01,Liu et al. 2019
+ALBERT,89.4,2019-09-01,Lan et al. 2019
+T5-11B,89.7,2019-10-01,Raffel et al. 2019
+StructBERT,89.0,2019-08-01,Wang et al. 2019
+ELECTRA,89.4,2020-03-01,Clark et al. 2020
+DeBERTa,90.0,2020-06-01,He et al. 2020
+DeBERTa-v3,91.1,2021-11-01,He et al. 2021
+ERNIE-3.0,90.8,2021-07-01,Sun et al. 2021
+GLM-XXLarge,90.4,2022-01-01,Du et al. 2022

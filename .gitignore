@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Environment / secrets
+.env
+.env.*
+*.api_key
+*_api_key.txt
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / temp
+*.log
+*.output
+texput.log
+
+# LaTeX / paper (do NOT push paper sources separately from OpenReview submission)
+paper/
+*.aux
+*.bbl
+*.blg
+*.synctex*
+*.fdb_latexmk
+*.fls
+*.toc
+
+# Internal planning / strategic notes (do NOT push)
+FINAL_TASKS.md
+TODO.md
+FUTURE_WORK.md
+MOCK_REVIEWS.md
+OVERLAP_CHECK.md
+REBUTTAL_KIT.md
+
+# Backups
+*_backup_*/
+*.bak
+
+# Large raw leaderboard dumps (kept locally; not needed for reproduction)
+data/leaderboard/v1_scores_full.csv

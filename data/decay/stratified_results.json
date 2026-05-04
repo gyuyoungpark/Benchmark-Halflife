@@ -1,0 +1,98 @@
+{
+  "bbh": {
+    "top20_variance": {
+      "trend": "decreasing",
+      "slope": -8.182687418534853e-05,
+      "best_model": "logistic",
+      "halflife_months": 19.61311975641422,
+      "residual": 6.93303267365857e-05
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 0.0002169137942555887,
+      "best_model": "logistic",
+      "halflife_months": 27.65234760605524,
+      "residual": 6.788526795767219e-06
+    }
+  },
+  "gpqa": {
+    "top20_variance": {
+      "trend": "increasing",
+      "slope": 1.2355176859458574e-05,
+      "best_model": "logistic",
+      "halflife_months": 15.812131157568187,
+      "residual": 8.823877187744318e-07
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 1.9390106256356692e-05,
+      "best_model": "logistic",
+      "halflife_months": 23.86988978939659,
+      "residual": 1.2361081120928919e-08
+    }
+  },
+  "ifeval": {
+    "top20_variance": {
+      "trend": "increasing",
+      "slope": 1.202498722729513e-06,
+      "best_model": "exponential",
+      "halflife_months": 1302.3912117356658,
+      "residual": 0.000333668411255282
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 0.0012999549490484267,
+      "best_model": "logistic",
+      "halflife_months": 20.877096359422055,
+      "residual": 6.621061341530525e-05
+    }
+  },
+  "math_lvl5": {
+    "top20_variance": {
+      "trend": "increasing",
+      "slope": 0.00021192559808929208,
+      "best_model": "logistic",
+      "halflife_months": 15.792575051543917,
+      "residual": 0.00032272486949788014
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 0.0010347453998306455,
+      "best_model": "exponential",
+      "halflife_months": 0.6563464078476692,
+      "residual": 0.000519683605699481
+    }
+  },
+  "mmlu_pro": {
+    "top20_variance": {
+      "trend": "decreasing",
+      "slope": -9.817912485896944e-06,
+      "best_model": "logistic",
+      "halflife_months": 33.413601090983576,
+      "residual": 7.185067327452731e-05
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 0.00036683036824916994,
+      "best_model": "logistic",
+      "halflife_months": 29.992314679950105,
+      "residual": 5.1726853555970345e-06
+    }
+  },
+  "musr": {
+    "top20_variance": {
+      "trend": "increasing",
+      "slope": 1.3395526596726138e-05,
+      "best_model": "logistic",
+      "halflife_months": 58.61229890274605,
+      "residual": 3.8356870038854765e-07
+    },
+    "7b_variance": {
+      "trend": "increasing",
+      "slope": 1.655996056895838e-05,
+      "best_model": "logistic",
+      "halflife_months": 15.768221823858772,
+      "residual": 5.349671634837983e-07
+    }
+  }
+}

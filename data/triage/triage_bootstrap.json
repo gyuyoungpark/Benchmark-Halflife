@@ -1,0 +1,366 @@
+{
+  "item_only": {
+    "1": {
+      "random": {
+        "chosen": [
+          "gsm8k"
+        ],
+        "rho_mean": 0.5279285714285715,
+        "rho_median": 0.5357142857142858,
+        "ci_lo": 0.0,
+        "ci_hi": 0.9285714285714288,
+        "n_boot": 2000
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa"
+        ],
+        "rho_mean": 0.7970178571428573,
+        "rho_median": 0.8214285714285715,
+        "ci_lo": 0.4642857142857144,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu"
+        ],
+        "rho_mean": 0.6550892857142858,
+        "rho_median": 0.6785714285714287,
+        "ci_lo": 0.28571428571428575,
+        "ci_hi": 0.9285714285714288,
+        "n_boot": 2000
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval"
+        ],
+        "rho_mean": 0.6992500000000001,
+        "rho_median": 0.7142857142857144,
+        "ci_lo": 0.28571428571428575,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc"
+        ],
+        "rho_mean": 0.5151607142857143,
+        "rho_median": 0.5357142857142858,
+        "ci_lo": 0.03571428571428572,
+        "ci_hi": 0.8928571428571429,
+        "n_boot": 2000
+      }
+    },
+    "2": {
+      "random": {
+        "chosen": [
+          "gsm8k",
+          "mmlu"
+        ],
+        "rho_mean": 0.6876428571428573,
+        "rho_median": 0.7142857142857144,
+        "ci_lo": 0.25,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa",
+          "gsm8k"
+        ],
+        "rho_mean": 0.7667500000000003,
+        "rho_median": 0.7857142857142859,
+        "ci_lo": 0.42857142857142866,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu",
+          "arc"
+        ],
+        "rho_mean": 0.632482142857143,
+        "rho_median": 0.642857142857143,
+        "ci_lo": 0.25,
+        "ci_hi": 0.9285714285714288,
+        "n_boot": 2000
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval",
+          "mmlu"
+        ],
+        "rho_mean": 0.7606250000000002,
+        "rho_median": 0.7857142857142859,
+        "ci_lo": 0.42857142857142866,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc",
+          "gsm8k"
+        ],
+        "rho_mean": 0.5761964285714287,
+        "rho_median": 0.6071428571428572,
+        "ci_lo": 0.03571428571428572,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      }
+    },
+    "3": {
+      "random": {
+        "chosen": [
+          "gsm8k",
+          "mmlu",
+          "arc"
+        ],
+        "rho_mean": 0.6790714285714287,
+        "rho_median": 0.7142857142857144,
+        "ci_lo": 0.25,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa",
+          "gsm8k",
+          "arc"
+        ],
+        "rho_mean": 0.7936250000000002,
+        "rho_median": 0.8214285714285715,
+        "ci_lo": 0.4642857142857144,
+        "ci_hi": 0.9651785714285668,
+        "n_boot": 2000
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu",
+          "arc",
+          "gsm8k"
+        ],
+        "rho_mean": 0.6730535714285716,
+        "rho_median": 0.7142857142857144,
+        "ci_lo": 0.28571428571428575,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval",
+          "mmlu",
+          "truthfulqa"
+        ],
+        "rho_mean": 0.8727857142857145,
+        "rho_median": 0.8928571428571429,
+        "ci_lo": 0.642857142857143,
+        "ci_hi": 1.0,
+        "n_boot": 2000
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc",
+          "gsm8k",
+          "truthfulqa"
+        ],
+        "rho_mean": 0.7987857142857144,
+        "rho_median": 0.8214285714285715,
+        "ci_lo": 0.4642857142857144,
+        "ci_hi": 0.9642857142857145,
+        "n_boot": 2000
+      }
+    }
+  },
+  "item_and_model": {
+    "1": {
+      "random": {
+        "chosen": [
+          "gsm8k"
+        ],
+        "rho_mean": 0.4928284710773421,
+        "rho_median": 0.5,
+        "ci_lo": -0.6,
+        "ci_hi": 1.0,
+        "n_boot": 1993
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa"
+        ],
+        "rho_mean": 0.7646186895810956,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": 0.19999999999999998,
+        "ci_hi": 1.0,
+        "n_boot": 1995
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu"
+        ],
+        "rho_mean": 0.6208082329317269,
+        "rho_median": 0.7,
+        "ci_lo": -0.39999999999999997,
+        "ci_hi": 1.0,
+        "n_boot": 1992
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval"
+        ],
+        "rho_mean": 0.6602010158094284,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": -0.3071428571428567,
+        "ci_hi": 1.0,
+        "n_boot": 1997
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc"
+        ],
+        "rho_mean": 0.48994695720736864,
+        "rho_median": 0.5,
+        "ci_lo": -0.6,
+        "ci_hi": 1.0,
+        "n_boot": 1993
+      }
+    },
+    "2": {
+      "random": {
+        "chosen": [
+          "gsm8k",
+          "mmlu"
+        ],
+        "rho_mean": 0.6653383458646616,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": -0.19999999999999998,
+        "ci_hi": 1.0,
+        "n_boot": 1995
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa",
+          "gsm8k"
+        ],
+        "rho_mean": 0.7373568565702834,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": 0.0,
+        "ci_hi": 1.0,
+        "n_boot": 1996
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu",
+          "arc"
+        ],
+        "rho_mean": 0.6077840664851698,
+        "rho_median": 0.7,
+        "ci_lo": -0.39999999999999997,
+        "ci_hi": 1.0,
+        "n_boot": 1994
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval",
+          "mmlu"
+        ],
+        "rho_mean": 0.7343208196016621,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": 0.0,
+        "ci_hi": 1.0,
+        "n_boot": 1994
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc",
+          "gsm8k"
+        ],
+        "rho_mean": 0.5469658976930791,
+        "rho_median": 0.7,
+        "ci_lo": -0.5,
+        "ci_hi": 1.0,
+        "n_boot": 1994
+      }
+    },
+    "3": {
+      "random": {
+        "chosen": [
+          "gsm8k",
+          "mmlu",
+          "arc"
+        ],
+        "rho_mean": 0.6439226519337017,
+        "rho_median": 0.7142857142857143,
+        "ci_lo": -0.31785714285714284,
+        "ci_hi": 1.0,
+        "n_boot": 1991
+      },
+      "akhtar_low": {
+        "chosen": [
+          "truthfulqa",
+          "gsm8k",
+          "arc"
+        ],
+        "rho_mean": 0.7632560809356389,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": 0.075,
+        "ci_hi": 1.0,
+        "n_boot": 1991
+      },
+      "akhtar_high": {
+        "chosen": [
+          "mmlu",
+          "arc",
+          "gsm8k"
+        ],
+        "rho_mean": 0.6454265674205554,
+        "rho_median": 0.7,
+        "ci_lo": -0.3125,
+        "ci_hi": 1.0,
+        "n_boot": 1996
+      },
+      "halflife_long": {
+        "chosen": [
+          "humaneval",
+          "mmlu",
+          "truthfulqa"
+        ],
+        "rho_mean": 0.847510551541598,
+        "rho_median": 0.8999999999999998,
+        "ci_lo": 0.39999999999999997,
+        "ci_hi": 1.0,
+        "n_boot": 1997
+      },
+      "halflife_short": {
+        "chosen": [
+          "arc",
+          "gsm8k",
+          "truthfulqa"
+        ],
+        "rho_mean": 0.7593640460691037,
+        "rho_median": 0.7999999999999999,
+        "ci_lo": 0.0,
+        "ci_hi": 1.0,
+        "n_boot": 1997
+      }
+    }
+  },
+  "head_to_head": {
+    "item_only": {
+      "p_a_beats_b": 0.8075,
+      "mean_diff": 0.19217857142857145,
+      "ci_diff": [
+        -0.14285714285714302,
+        0.6071428571428572
+      ]
+    },
+    "item_and_model": {
+      "p_a_beats_b": 0.5984962406015037,
+      "mean_diff": 0.19455424274973146,
+      "ci_diff": [
+        -0.39999999999999997,
+        1.0
+      ]
+    }
+  }
+}

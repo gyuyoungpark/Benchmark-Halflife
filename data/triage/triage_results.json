@@ -1,0 +1,128 @@
+{
+  "1": {
+    "random": {
+      "chosen": [
+        "gsm8k"
+      ],
+      "rho": 0.8214285714285715,
+      "n_models": 7
+    },
+    "akhtar_low": {
+      "chosen": [
+        "truthfulqa"
+      ],
+      "rho": 0.8928571428571429,
+      "n_models": 7
+    },
+    "akhtar_high": {
+      "chosen": [
+        "mmlu"
+      ],
+      "rho": 0.7500000000000002,
+      "n_models": 7
+    },
+    "halflife_long": {
+      "chosen": [
+        "humaneval"
+      ],
+      "rho": 0.8928571428571429,
+      "n_models": 7
+    },
+    "halflife_short": {
+      "chosen": [
+        "arc"
+      ],
+      "rho": 0.5714285714285715,
+      "n_models": 7
+    }
+  },
+  "2": {
+    "random": {
+      "chosen": [
+        "gsm8k",
+        "mmlu"
+      ],
+      "rho": 0.8571428571428573,
+      "n_models": 7
+    },
+    "akhtar_low": {
+      "chosen": [
+        "truthfulqa",
+        "gsm8k"
+      ],
+      "rho": 0.8928571428571429,
+      "n_models": 7
+    },
+    "akhtar_high": {
+      "chosen": [
+        "mmlu",
+        "arc"
+      ],
+      "rho": 0.5714285714285715,
+      "n_models": 7
+    },
+    "halflife_long": {
+      "chosen": [
+        "humaneval",
+        "mmlu"
+      ],
+      "rho": 0.8214285714285715,
+      "n_models": 7
+    },
+    "halflife_short": {
+      "chosen": [
+        "arc",
+        "gsm8k"
+      ],
+      "rho": 0.9285714285714288,
+      "n_models": 7
+    }
+  },
+  "3": {
+    "random": {
+      "chosen": [
+        "gsm8k",
+        "mmlu",
+        "arc"
+      ],
+      "rho": 0.8571428571428573,
+      "n_models": 7
+    },
+    "akhtar_low": {
+      "chosen": [
+        "truthfulqa",
+        "gsm8k",
+        "arc"
+      ],
+      "rho": 0.8928571428571429,
+      "n_models": 7
+    },
+    "akhtar_high": {
+      "chosen": [
+        "mmlu",
+        "arc",
+        "gsm8k"
+      ],
+      "rho": 0.8571428571428573,
+      "n_models": 7
+    },
+    "halflife_long": {
+      "chosen": [
+        "humaneval",
+        "mmlu",
+        "truthfulqa"
+      ],
+      "rho": 0.9642857142857145,
+      "n_models": 7
+    },
+    "halflife_short": {
+      "chosen": [
+        "arc",
+        "gsm8k",
+        "truthfulqa"
+      ],
+      "rho": 0.8928571428571429,
+      "n_models": 7
+    }
+  }
+}

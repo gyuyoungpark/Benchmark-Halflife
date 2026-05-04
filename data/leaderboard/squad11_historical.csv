@@ -1,0 +1,14 @@
+model,score,release_date,source
+Match-LSTM,70.3,2016-12-01,Wang et al. 2016
+BiDAF,77.3,2017-02-01,Seo et al. 2017
+R-Net,82.9,2017-07-01,Wang et al. 2017
+QANet,84.6,2018-04-01,Yu et al. 2018
+BERT-base,88.5,2018-10-01,Devlin et al. 2018
+BERT-large,90.9,2018-10-01,Devlin et al. 2018
+SpanBERT,94.6,2019-07-01,Joshi et al. 2019
+XLNet,94.5,2019-06-01,Yang et al. 2019
+RoBERTa,94.6,2019-07-01,Liu et al. 2019
+ALBERT,94.8,2019-09-01,Lan et al. 2019
+ELECTRA,94.9,2020-03-01,Clark et al. 2020
+LUKE,95.4,2020-10-01,Yamada et al. 2020
+RoBERTa-IE,95.6,2021-02-01,SQuAD leaderboard

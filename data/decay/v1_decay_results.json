@@ -1,0 +1,28 @@
+{
+  "arc_challenge": {
+    "trend": "growth",
+    "slope": 0.00011758921651027347
+  },
+  "hellaswag": {
+    "trend": "growth",
+    "slope": 9.299189477011226e-06
+  },
+  "truthfulqa": {
+    "halflife": 3.53015650247215,
+    "trend": "decay",
+    "slope": -0.0001974236876451259
+  },
+  "truthfulqa_all": {
+    "halflife": 7.483355113596942,
+    "trend": "decay"
+  },
+  "winogrande": {
+    "trend": "growth",
+    "slope": 4.886557255186257e-05
+  },
+  "gsm8k": {
+    "halflife": 6.051112962975781,
+    "trend": "decay",
+    "slope": -0.00101797078539882
+  }
+}

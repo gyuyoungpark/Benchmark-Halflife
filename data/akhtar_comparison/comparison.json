@@ -1,0 +1,90 @@
+[
+  {
+    "benchmark": "ARC-Challenge",
+    "saturation_index": 0.25226981338478893,
+    "sat_status": "unsaturated",
+    "halflife_exp": 2.7,
+    "halflife_best": 3.4,
+    "hl_status": "EXHAUSTED"
+  },
+  {
+    "benchmark": "HellaSwag",
+    "saturation_index": 0.1526049614428605,
+    "sat_status": "unsaturated",
+    "halflife_exp": 2.5,
+    "halflife_best": 2.5,
+    "hl_status": "EXHAUSTED"
+  },
+  {
+    "benchmark": "TruthfulQA",
+    "saturation_index": 0.00315164906450222,
+    "sat_status": "unsaturated",
+    "halflife_exp": 9.0,
+    "halflife_best": 5.7,
+    "hl_status": "fast decay"
+  },
+  {
+    "benchmark": "WinoGrande",
+    "saturation_index": 0.10557968603250997,
+    "sat_status": "unsaturated",
+    "halflife_exp": 1.0,
+    "halflife_best": 1.7,
+    "hl_status": "EXHAUSTED"
+  },
+  {
+    "benchmark": "GSM8K",
+    "saturation_index": 0.07095485835504291,
+    "sat_status": "unsaturated",
+    "halflife_exp": 4.6,
+    "halflife_best": 4.9,
+    "hl_status": "EXHAUSTED"
+  },
+  {
+    "benchmark": "BBH",
+    "saturation_index": 0.5342238556669494,
+    "sat_status": "partial",
+    "halflife_exp": 39.3,
+    "halflife_best": 19.6,
+    "hl_status": "very slow"
+  },
+  {
+    "benchmark": "MMLU-PRO",
+    "saturation_index": 0.9656086444006979,
+    "sat_status": "SATURATED",
+    "halflife_exp": null,
+    "halflife_best": null,
+    "hl_status": "not measurable"
+  },
+  {
+    "benchmark": "GPQA",
+    "saturation_index": 0.7835254686322102,
+    "sat_status": "partial",
+    "halflife_exp": null,
+    "halflife_best": null,
+    "hl_status": "not measurable"
+  },
+  {
+    "benchmark": "IFEval",
+    "saturation_index": 0.9939476662931006,
+    "sat_status": "SATURATED",
+    "halflife_exp": null,
+    "halflife_best": null,
+    "hl_status": "not measurable"
+  },
+  {
+    "benchmark": "MATH Lvl5",
+    "saturation_index": 0.6298021994276326,
+    "sat_status": "partial",
+    "halflife_exp": null,
+    "halflife_best": null,
+    "hl_status": "not measurable"
+  },
+  {
+    "benchmark": "MUSR",
+    "saturation_index": 0.4162711375122042,
+    "sat_status": "unsaturated",
+    "halflife_exp": null,
+    "halflife_best": null,
+    "hl_status": "not measurable"
+  }
+]

@@ -1,0 +1,11 @@
+model,score,release_date,source
+DrQA,52.6,2018-08-01,Reddy et al. 2018 CoQA paper
+BERT-base,68.4,2018-12-01,Devlin et al. 2018
+BERT-large,76.5,2018-12-01,Devlin et al. 2018
+FlowQA,75.0,2018-09-01,Huang et al. 2018
+SDNet,76.6,2018-12-01,Zhu et al. 2018
+RoBERTa,82.5,2019-07-01,Liu et al. 2019
+TR-MT ensemble,86.7,2019-08-01,CoQA leaderboard
+RoBERTa+AT+KD,89.9,2019-10-01,CoQA leaderboard
+RoBERTa+Adv+SD,90.7,2019-11-01,CoQA leaderboard
+Deberta-v3+kd,91.4,2021-11-01,CoQA leaderboard

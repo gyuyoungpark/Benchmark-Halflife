@@ -1,0 +1,12 @@
+benchmark,saturation_index,sat_status,halflife_exp,halflife_best,hl_status
+ARC-Challenge,0.25226981338478893,unsaturated,2.7,3.4,EXHAUSTED
+HellaSwag,0.1526049614428605,unsaturated,2.5,2.5,EXHAUSTED
+TruthfulQA,0.00315164906450222,unsaturated,9.0,5.7,fast decay
+WinoGrande,0.10557968603250997,unsaturated,1.0,1.7,EXHAUSTED
+GSM8K,0.07095485835504291,unsaturated,4.6,4.9,EXHAUSTED
+BBH,0.5342238556669494,partial,39.3,19.6,very slow
+MMLU-PRO,0.9656086444006979,SATURATED,,,not measurable
+GPQA,0.7835254686322102,partial,,,not measurable
+IFEval,0.9939476662931006,SATURATED,,,not measurable
+MATH Lvl5,0.6298021994276326,partial,,,not measurable
+MUSR,0.4162711375122042,unsaturated,,,not measurable

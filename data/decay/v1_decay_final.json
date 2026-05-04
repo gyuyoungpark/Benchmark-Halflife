@@ -1,0 +1,22 @@
+{
+  "arc_challenge": {
+    "halflife": 2.7,
+    "trend": "decay"
+  },
+  "hellaswag": {
+    "halflife": 2.5,
+    "trend": "decay"
+  },
+  "truthfulqa": {
+    "halflife": 8.9,
+    "trend": "decay"
+  },
+  "winogrande": {
+    "halflife": 0.9,
+    "trend": "decay"
+  },
+  "gsm8k": {
+    "halflife": 4.6,
+    "trend": "decay"
+  }
+}

@@ -1,0 +1,15 @@
+model,score,release_date,source
+BiLSTM-CRF,91.2,2016-03-01,Lample et al. 2016
+CharCNN-LSTM,91.6,2016-11-01,Ma and Hovy 2016
+CVT,92.6,2018-01-01,Clark et al. 2018
+ELMo,92.2,2018-02-01,Peters et al. 2018
+BERT-base,92.4,2018-10-01,Devlin et al. 2018
+BERT-large,92.8,2018-10-01,Devlin et al. 2018
+Flair,93.1,2018-06-01,Akbik et al. 2018
+RoBERTa,92.4,2019-07-01,Liu et al. 2019
+XLNet,92.3,2019-06-01,Yang et al. 2019
+LUKE,94.3,2020-10-01,Yamada et al. 2020
+FLAT,93.2,2020-04-01,Li et al. 2020
+ACE,93.6,2021-03-01,Wang et al. 2021
+DeBERTa-v3,93.8,2021-11-01,He et al. 2021
+W2NER,94.4,2022-02-01,Li et al. 2022

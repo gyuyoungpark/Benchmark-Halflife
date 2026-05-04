@@ -1,0 +1,3484 @@
+[
+  {
+    "question": "A television set with a cash price of $525 is to be paid for on the installment plan with a $75 down payment and twelve monthly payments of $42.75. Calculate the carrying charge for the television set.",
+    "options": [
+      "$162",
+      "$342",
+      "$108",
+      "$513",
+      "$297",
+      "$255",
+      "$63",
+      "$588",
+      "$525",
+      "$189"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "business"
+  },
+  {
+    "question": "Nine rats run through a maze. The time each rat took to traversethe maze is recorded and these times are listed below. 1 min., 2.5 min., 3 min., 1.5 min., 2 min., 1.25 min., 1 min., .9 min., 30 min. Which of the three measures of central tendency would be themost appropriate in this case?",
+    "options": [
+      "range",
+      "trimmed mean",
+      "harmonic mean",
+      "median or mode",
+      "interquartile range",
+      "standard deviation",
+      "geometric mean",
+      "mean",
+      "weighted mean",
+      "midrange"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "psychology"
+  },
+  {
+    "question": "Which of the following short-run costs always increases as output increases?",
+    "options": [
+      "Average variable cost",
+      "Marginal revenue",
+      "Average total cost",
+      "Marginal cost",
+      "Total variable cost",
+      "Total overhead cost",
+      "Average revenue cost",
+      "Total fixed cost",
+      "Average fixed cost"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "other"
+  },
+  {
+    "question": "Find the mass and weight of the air at $20^{\\circ} C$ in a living room with a $4.0 m \\times 5.0 m$ floor and a ceiling 3.0 m high, and the mass and weight of an equal volume of water. (Unit: 10 ^ 5 N)",
+    "options": [
+      "9.7",
+      "3.6",
+      "4.8",
+      "2.8",
+      "7.1",
+      "5.9",
+      "8.4",
+      "6.3",
+      "4.2",
+      "10.1"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "physics"
+  },
+  {
+    "question": "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?\n",
+    "options": [
+      "DNMT1",
+      "DNMT3a",
+      "DNMT3b",
+      "DNMT3L"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "health"
+  },
+  {
+    "question": "According to the Standards for Educational and Psychological Testing, when interpreting and reporting test results, one should",
+    "options": [
+      "exclude the potential effects of situational and demographic variables from consideration",
+      "Avoid discussing the test results with the tester to prevent performance anxiety",
+      "Give more weight to the lowest score as it indicates areas for improvement",
+      "Always associate test results with the tester's demographic information for context",
+      "use descriptive labels, because such labels readily communicate specific meanings to most people",
+      "Neglect the confidence interval, since the obtained score represents the true score",
+      "focus attention on the confidence interval of a score rather than on the obtained score itself",
+      "stress the obtained score, since it is the best estimate of the true score",
+      "Only interpret the scores in comparison to the average result of the group",
+      "Consider only the highest obtained score as it demonstrates the tester's potential"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "psychology"
+  },
+  {
+    "question": "Suppose that $a,b,$ and $c$ are positive integers satisfying $(a+b+c)^3 - a^3 - b^3 - c^3 = 150$. Find $a+b+c$.",
+    "options": [
+      "12",
+      "18",
+      "14",
+      "16",
+      "150",
+      "6",
+      "20",
+      "10",
+      "8",
+      "24"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "If the pressure and temperature at the center of the earth are 3 \u00d7 10^6 atm and 4000\u00b0C respectively, estimate the change in the Gibbs function, \\DeltaG of reaction on going from the crust to the core. Changes in volume, \\DeltaV and entropy, \\DeltaS are 1 cm^3 mol^-1 and 2.1 J K^-1 mol^-1 respectively.",
+    "options": [
+      "8.3 kJ mol^-1",
+      "15 kJ mol^-1",
+      "500 kJ mol^-1",
+      "8347.5 J mol^-1",
+      "300 kJ mol^-1",
+      "29.17 kJ mol^-1",
+      "3.5 kJ mol^-1",
+      "2.917 kJ mol^-1",
+      "291.7 kJ mol^-1",
+      "600 J mol^-1"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": " When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?",
+    "options": [
+      "Late Sixth Century BCE",
+      "Late Second Century BCE",
+      "Early Fifth Century BCE",
+      "Late Fourth Century BCE",
+      "Early First Century BCE",
+      "Early Third Century BCE",
+      "Fourth and Third Century BCE",
+      "Mid Seventh Century BCE",
+      "Early Sixth Century BCE",
+      "Second and First Century BCE"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "philosophy"
+  },
+  {
+    "question": "When the atria contract, only 30% of the ventricular space becomes filled. How does the additional 70% become filled? Describe the process of the cardiac cycle in general.",
+    "options": [
+      "Ventricular filling is achieved through nervous stimulation.",
+      "70% of the ventricular filling occurs during diastole due to passive flow as the atrial pressure is greater than the ventricular pressure.",
+      "The additional 70% is filled by the gravitational force when the body is in a specific position.",
+      "The remaining ventricular space is filled by pulmonary backflow during inhalation.",
+      "Ventricular filling is supplemented by the contraction of auxiliary heart chambers.",
+      "Ventricular filling is completed by muscular constriction of the ventricles.",
+      "Ventricular filling for the remaining 70% is regulated by hormonal changes during the cardiac cycle.",
+      "Ventricular filling occurs during systole due to active flow.",
+      "The remaining 70% of ventricular filling is due to contraction of the atria.",
+      "The last 70% of ventricular filling is aided by the opening and closing of the semilunar valves."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "biology"
+  },
+  {
+    "question": "Determine the average surface conductance per unit length ofa long rod, 0.33 in. diameter, exposed to hot air blast at 110\u00b0F.The temperature of the rod has increased from 50\u00b0F to70\u00b0F in 60 seconds. Assume the thermal conductivity for rodmaterial as k = 300 Btu/hr.ft.\u00b0F, \\rho = 600lbm/ft^3, and Cp = 0.18 Btu/lbm.\u00b0F.",
+    "options": [
+      "18.06 Btu/hr. ft^2.\u00b0F",
+      "16.06 Btu/hr. ft^2.\u00b0F",
+      "22.06 Btu/hr. ft^2.\u00b0F",
+      "20.06 Btu/hr. ft^2.\u00b0F"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "engineering"
+  },
+  {
+    "question": "A psychiatrist sends a signed patient release form to a psychologist requesting a copy of a report on a patient who was assessed 7 years earlier. The psychologist should",
+    "options": [
+      "ignore the request as it is outside their responsibility",
+      "request a new patient release form from the psychiatrist",
+      "send the report with a covering letter indicating thar the report may now be obsolete",
+      "send an updated report instead of the original one",
+      "write a letter to the psychiatrist refusing to send the report because too much rime bas elapsed",
+      "send the report but withhold any sensitive information",
+      "refuse the request as it violates patient confidentiality",
+      "send the report as requested",
+      "consult with a legal team before sending the report",
+      "contact the patient directly prior to sending the report"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "psychology"
+  },
+  {
+    "question": "Which of the following principles is NOT part of Darwin's theory of evolution by natural selection?",
+    "options": [
+      "Evolution does not occur within an individual's lifespan.",
+      "Natural selection favors traits that are beneficial for survival.",
+      "Evolution occurs in response to changes in the environment.",
+      "Every population has tremendous variation.",
+      "Species can develop new traits during their lifetime, which they can pass on to their offspring.",
+      "Survival of the fittest ensures that only the strongest survive.",
+      "Evolution is a gradual process that occurs over a long period of time.",
+      "Every species has the potential to evolve.",
+      "Organisms will overpopulate area, giving rise to competition.",
+      "Mutations are the main source of all variation in a population."
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "biology"
+  },
+  {
+    "question": "A 16-year-old boy is admitted to the emergency department because of a knife wound to the left side of his chest. An x-ray of the chest shows an air-fluid level in the left side of the chest, partial collapse of the left lung, and elevation of the stomach bubble. The mediastinum is in the midline. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Rib fracture",
+      "Hemopneumothorax, not under tension",
+      "Flail chest",
+      "Pneumothorax, not under tension",
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Pulmonary contusion",
+      "Tension hemopneumothorax",
+      "Hemothorax, not under tension",
+      "Pleural effusion"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "health"
+  },
+  {
+    "question": "How many paths are there from the origin (0,0) to the point (10,10) on a grid such that the path only moves up or right and does not cross the diagonal line y = x?",
+    "options": [
+      "75582",
+      "25000",
+      "12650",
+      "5000",
+      "16796",
+      "184756",
+      "48620",
+      "10000",
+      "92378",
+      "352716"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "math"
+  },
+  {
+    "question": "A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?",
+    "options": [
+      "64",
+      "408",
+      "128",
+      "320",
+      "280",
+      "96",
+      "192",
+      "160",
+      "256",
+      "224"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "math"
+  },
+  {
+    "question": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. An average human produces about $10 \\mathrm{MJ}$ of heat each day through metabolic activity. Human bodies are actually open systems, and the main mechanism of heat loss is through the evaporation of water. What mass of water should be evaporated each day to maintain constant temperature?",
+    "options": [
+      "8.5 kg",
+      "9.3 kg",
+      "3.7$\\text{kg}$",
+      "5.6$\\text{kg}$",
+      "2.5$\\text{kg}$",
+      "7.85 kg",
+      "3.0 kg",
+      "6.2 kg",
+      "4.09$\\text{kg}$ ",
+      "1.75 kg"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": "What is the second most common element in the solar system?",
+    "options": [
+      "Methane",
+      "Nitrogen",
+      "Oxygen",
+      "Iron",
+      "Hydrogen",
+      "Helium",
+      "Neon",
+      "Carbon",
+      "Silicon",
+      "Argon"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "physics"
+  },
+  {
+    "question": "Devise an experiment which would distinguish between Decay and Interference theories of forgetting. What results would have to be obtained to support the Decay theory? To support the Interference theory?",
+    "options": [
+      "Decay Theory is supported if the experimental group recalls significantly more than the control group, indicating that time strengthens memories. Interference Theory is supported if recall is unaffected by additional learning tasks.",
+      "Interference Theory is supported if the control group recalls more than the experimental group when a competing task is introduced immediately after learning, indicating that immediate interference affects recall.",
+      "Interference Theory is supported if both groups recall the same amount from learning task A",
+      "Decay Theory is supported if the recall is unaffected over time, while Interference Theory is supported if recall decreases with the introduction of a competing task shortly after learning.",
+      "Decay Theory is supported if the experimental group demonstrates improved recall with the introduction of a competing task, indicating that interference can actually enhance memory retention.",
+      "Decay Theory is supported if both groups recall the same amount from learning task A, proving that time fades memories. Interference Theory is supported if the experimental group recalls significantly less than the control group, indicating interference from other memories",
+      "Decay Theory is supported if the experimental group recalls significantly less than the control group",
+      "Decay Theory is supported if recall diminishes in the absence of any competing tasks over a long period, indicating that memories fade naturally over time. Interference Theory is supported if recall diminishes only when a competing task is introduced during the retention interval.",
+      "Both theories are supported if the control group recalls significantly less than the experimental group",
+      "Interference Theory is supported if both groups show improved recall over time, suggesting that memories consolidate rather than decay or interfere with each other."
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "psychology"
+  },
+  {
+    "question": "An art collector attended a party on March 15. At the party, the art collector was describing his collection to a woman in attendance. When the art collector described a painting by a well-known artist, the woman indicated she might like to buy that painting. The art collector said, \"I'll sell you the painting for $10,000. I'll give you 30 days to decide whether you want the painting. \" On March 25, the art collector wrote to the woman and stated that the offer of March 15 was withdrawn. The woman received the March 25 letter on March 26. On March 27, the woman wrote the art collector the following letter:\"Please be advised that I hereby accept your offer of March 15. \" The art collector received this letter on March28. Thereafter, the art collector and the woman engaged in several telephone discussions. On April 10, the woman, in a telephone conversation, told the art collector that she would pay $15,000 if the painting was delivered on or before April 15. The art collector agreed to deliver the painting for $15,000. On April 15, the art collector tendered the painting, but the woman refused to pay more than $10,000. If the art collector asserts a claim against the woman for breach of contract, which of the following is the most accurate statement?",
+    "options": [
+      "An enforceable contract does not exist between the parties, because of mutual mistake of fact.",
+      "There is no enforceable contract, because the woman did not accept the initial offer in writing.",
+      "The art collector is obligated to sell the woman the painting for $10,000, because the woman, as offeree, had the right to accept the initial offer within the 30-day period.",
+      "The art collector is obligated to sell the painting for $10,000 as the woman accepted the original offer before it was revoked.",
+      "The woman is obligated to pay the art collector $10,000, because the art collector did not properly revoke the initial offer.",
+      "Since the parties entered into a subsequent modification, the woman is obligated to pay the art collector $15,000 for the painting.",
+      "The woman is not obligated to pay any amount, because the initial offer was not legally binding.",
+      "The woman is obligated to pay $15,000, because she agreed to this price during their telephone conversation on April 10.",
+      "The woman is obligated to pay $15,000 as the new agreement made on April 10 supersedes the initial offer.",
+      "Since the art collector, as offeror, had the power to revoke the original offer before acceptance, the woman is obligated under the terms of their April 10 agreement."
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "law"
+  },
+  {
+    "question": "Consider the evaporation of liquid ammonia into air at 80\u00b0F and 1 atm. Given the heat transfer coefficient in the same apparatus and at the same liquid and gas flow rates as 810 Btu/hr. ft^2. \u00b0F, estimate the mass transfer coefficient of liquid ammonia vaporizing into air.",
+    "options": [
+      "110 lb moles/hr-ft^2-atm",
+      "200 lb moles/hr-ft^2-atm",
+      "100 lb moles/hr-ft^2-atm",
+      "180 lb moles/hr-ft^2-atm",
+      "128 lb moles/hr-ft^2-atm",
+      "137.66 lb moles/hr-ft^2-atm",
+      "150 lb moles/hr-ft^2-atm",
+      "162 lb moles/hr-ft^2-atm",
+      "95 lb moles/hr-ft^2-atm",
+      "125 lb moles/hr-ft^2-atm"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "engineering"
+  },
+  {
+    "question": "Suppose g(x) is the horizontal asymptote of function f(x) = (\\sqrt{36 x^2 + 7}) / (9x + 4). What are possible values of g(2023)?",
+    "options": [
+      "[0.9999, -0.9999]",
+      "[1.4142, -1.4142]",
+      "[4.0000, -4.0000]",
+      "[1.2345, -1.2345]",
+      "[3.1415, -3.1415]",
+      "[0.6667, -0.6667]",
+      "[2.5678, -2.5678]",
+      "[0.1234, -0.1234]",
+      "[0.3333, -0.3333]",
+      "[2.7183, -2.7183]"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "An urn contains 10 red and 10 white balls. The balls are drawn from the urn at random, one at a time. Find the probability that the fourth white ball is the fourth ball drawn if the sampling is done with replacement.",
+    "options": [
+      "$\\frac{1}{256}$",
+      "$\\frac{1}{128}$",
+      "$\\frac{1}{64}$",
+      "$\\frac{3}{16}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{16}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{32}$",
+      "$\\frac{5}{32}$",
+      "$\\frac{1}{4}$"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "Unlike most other early civilizations, Minoan culture shows little evidence of:",
+    "options": [
+      "trade.",
+      "warfare.",
+      "the development of a common religion.",
+      "conspicuous consumption by elites."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "history"
+  },
+  {
+    "question": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?",
+    "options": [
+      "It would rise more quickly for negative disturbances than for positive ones of the same magnitude",
+      "It would be symmetrical about zero",
+      "It would rise less quickly for negative disturbances than for positive ones of the same magnitude",
+      "It would be zero for all positive disturbances"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "economics"
+  },
+  {
+    "question": "The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.",
+    "options": [
+      "Proactive, Cost effectiveness, Faster",
+      "Reactive, Cost effectiveness, Slower",
+      "Faster, Cost effectiveness, Slower",
+      "Proactive, Heightened costs, Faster",
+      "Proactive, Cost effectiveness, Slower",
+      "Proactive, Cost ineffectiveness, Slower",
+      "Reactive, Heightened costs, Faster",
+      "Faster, Cost ineffectiveness, Faster",
+      "Reactive, Cost ineffectiveness, Faster",
+      "Faster, Heightened costs, Slower"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "business"
+  },
+  {
+    "question": "Use Laplace's equation in cylindrical coordinates to find the capacitanceof a coaxial cable.",
+    "options": [
+      "C = [(\u03c0L) / {\u03b5\u2080 * ln(b/a)}]",
+      "C = [(\u03c0\u03b5\u2080L) / {ln(b-a)}]",
+      "C= [(2\\piL) / {ln(b/a)}]",
+      "C = [(2\u03c0\u03b5\u2080L) * (a/b)]",
+      "C= [(2\\piL) * {ln(b-a)}]",
+      "C = [(\u03b5\u2080L) / (2\u03c0 * ln(a+b))]",
+      "C= [2\\piL * ln(b/a)]",
+      "C= [(2\\piL) / {ln(a/b)}]",
+      "C = [\u03c0\u03b5\u2080L * ln(b/a)]",
+      "C = [2\u03c0\u03b5\u2080L * (1/ln(b-a))]"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "engineering"
+  },
+  {
+    "question": "If a test has a standard error of measurement of 15 points, itis correct to conclude that",
+    "options": [
+      "about 85% of the observed scores for the test population lie within 15 points of the mean score",
+      "differences of up to 15 points represent the same true score",
+      "about 68% of the individuals with a given cure score will have observed scores within 15 points of the true score",
+      "about 68% of the observed scores for the test population lie within 15 points of the mean score",
+      "about 68% of the observed scores for the test population lie within 30 points of the mean score",
+      "about 68% of the observed scores will lie between 15 points below and above the true score",
+      "about 32% of the individuals with a given cure score will have observed scores within 15 points of the true score",
+      "about 15% of the individuals with a given score will have observed scores within 15 points of the true score",
+      "differences of up to 30 points represent the same true score",
+      "about 15% of the scores are in error (i.e., they are not measuring the trait reliably)"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "psychology"
+  },
+  {
+    "question": "Jupiter pilots his newly created perfectionism scale on a high school psychology class. He returns one month later to administer the same test to the same students, and then he correlates the two sets of results. What is Jupiter probably doing?",
+    "options": [
+      "measuring the test's reliability",
+      "Checking the test's validity",
+      "standardizing the test",
+      "Identifying the test's predictability",
+      "Calculating the test's difficulty level",
+      "checking for outliers",
+      "Trying to determine the test's sensitivity",
+      "Analyzing the distribution of scores on the test",
+      "Comparing the test's results with another perfectionism scale",
+      "looking to see if the mean level of perfectionism has changed"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "psychology"
+  },
+  {
+    "question": "Which statement is true about an open systems model of public relations in an organization?",
+    "options": [
+      "It discourages feedback from its publics.",
+      "It aims at maintaining a static organizational environment.",
+      "It supports non-transparency and secrecy for organizational success.",
+      "It emphasizes on controlling the public perception rather than adapting to it.",
+      "It adapts to changing organizational environments.",
+      "It promotes a one-way communication from the organization to its publics.",
+      "It encourages the organization to work in isolation.",
+      "It focuses on removing communication barriers between its business divisions."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "other"
+  },
+  {
+    "question": "A wealthy retiree had amassed a fortune after selling his pharmaceutical company. The retiree and his wife lived in an exquisitely decorated penthouse apartment overlooking a park. One night, the retiree and his wife were returning home from dinner when they were accosted by a man outside their apartment building. The man brandished a gun and told the retiree and his wife to take him to their apartment. Upon entering the apartment, the man blindfolded the retiree and his wife and tied them up with duct tape to chairs in the living room. The man then stole the retiree's wallet and assorted jewelry from the bedroom. After the man exited the apartment, the retiree and his wife tried desperately to free themselves from their constraints. As the retiree was struggling, he suffered a heart attack and died. The man should be found guilty of",
+    "options": [
+      "burglary and involuntary manslaughter.",
+      "robbery and burglary.",
+      "involuntary manslaughter.",
+      "burglary.",
+      "robbery, burglary, and involuntary manslaughter.",
+      "burglary, robbery, and murder.",
+      "robbery and murder.",
+      "robbery.",
+      "aggravated assault and robbery.",
+      "murder."
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "law"
+  },
+  {
+    "question": "When an inch of rain falls on New York, it results in a rainfall of 19.8 \u00d7 10^9 liters. If the temperature drops to 0\u00b0C after this rainfall and the density of rain (H_2O) is 1.00 g/cm_3, how much heat is released when this quantity of water freezes? You may assume \u2206H_fus= 1.4 Kcal mole^-1.",
+    "options": [
+      "1.76 Kcal",
+      "0.98 Kcal",
+      "3.08 Kcal",
+      "2.8 Kcal",
+      "1.54 Kcal",
+      "0.7 Kcal",
+      "1.1 Kcal",
+      "1.98 Kcal",
+      "2.2 Kcal",
+      "1.4 Kcal"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "chemistry"
+  },
+  {
+    "question": "Why are organ transplants generally unsuccessful?",
+    "options": [
+      "Lack of available organs",
+      "Graft rejection due to immunological reaction",
+      "Incompatibility of blood types",
+      "Allergic reactions to anesthesia",
+      "Insufficient surgical expertise",
+      "Inadequate post-operative care",
+      "Genetic mutations in the donor organ",
+      "Infection due to non-sterile surgical environment",
+      "Organ malfunction post-transplant",
+      "Poor surgical procedures"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "biology"
+  },
+  {
+    "question": "John's $200 earns interest at the rate of 5% for one year, compounded quarterly. Show how he would calculate the interest without the aid of a formula or a table.",
+    "options": [
+      "$10.00",
+      "$20.00",
+      "$5.00",
+      "$8.75",
+      "$15.25",
+      "$10.50",
+      "$12.62",
+      "$10.19",
+      "$21.55",
+      "$11.03"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "business"
+  },
+  {
+    "question": "A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local newspaper conducted a survey of county residents to assess their support for such an increase. What is the population of interest here?",
+    "options": [
+      "All teachers in the county school system",
+      "All residents in the local newspaper distribution area",
+      "All county residents with children in the county school system",
+      "All parents of children in the county school system",
+      "All school committee members",
+      "All county residents with school-aged children",
+      "All county residents who pay gasoline tax",
+      "All county residents",
+      "All school-aged children",
+      "All local newspaper readers"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "math"
+  },
+  {
+    "question": "The village of Lynbrook has a capital budget of $125,626.79 for the current year. Through fines and issuing of licenses, the village expects to raise $4,256.30. If the total assessed valuation of the property in Lynbrook is $2,697,112, what is the town's tax rate in dollars per $1,000?",
+    "options": [
+      "$65 per $1,000 of assessed valuation",
+      "$35 per $1,000 of assessed valuation",
+      "$60 per $1,000 of assessed valuation",
+      "$25 per $1,000 of assessed valuation",
+      "$30 per $1,000 of assessed valuation",
+      "$45 per $1,000 of assessed valuation",
+      "$50 per $1,000 of assessed valuation",
+      "$40 per $1,000 of assessed valuation",
+      "$55 per $1,000 of assessed valuation",
+      "$70 per $1,000 of assessed valuation"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "business"
+  },
+  {
+    "question": "A method is to be written to search an array for a value that is larger than a given item and return its index. The problem specification does not indicate what should be returned if there are several such values in the array. Which of the following actions would be best?",
+    "options": [
+      "The method should return an error if more than one larger value is found.",
+      "The specification should be modified to indicate what should be done if there is more than one index of larger values.",
+      "The method should be written to output a message if more than one larger value is found.",
+      "The method should be written so as to return the index of every occurrence of a larger value.",
+      "The method should be written to return the last occurrence of a larger value.",
+      "The method should return a random index of a larger value.",
+      "The method should be written to return the largest index among larger values.",
+      "The method should be written on the assumption that there is only one value in the array that is larger than the given item."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "computer science"
+  },
+  {
+    "question": "If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true?",
+    "options": [
+      "Corn would become a luxury good due to the price ceiling.",
+      "The government would have to subsidize corn production.",
+      "The price of corn would increase dramatically.",
+      "The price of corn would remain the same but the quality would decrease.",
+      "The producers of corn would lose revenue due to the decreased price.",
+      "The demand for corn would decrease significantly.",
+      "There would be a surplus created of corn.",
+      "Corn producers would increase their output to meet the new demand.",
+      "There would be no change in the amount of corn demanded or supplied.",
+      "There would be a shortage created of corn."
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "economics"
+  },
+  {
+    "question": "The first step in the radioactive decay of (^238 _92)U is (^238 _92)U = (^234 _90)Th+ (^4 _2)He. Calculate the energy released in this reaction. The exact masses of (^238 _92)U, (^234 _90)Th, and (^4 _2)He are 238.0508, 234.0437 and 4.0026amu, respectively.(1.00073amu= 1.673 \u00d7 10^-24 g.)",
+    "options": [
+      "3.21 \u00d7 10^-6 ergs",
+      "2.98 \u00d7 10^-6 ergs",
+      "6.72 \u00d7 10^-6 ergs",
+      "5.00 \u00d7 10^-6 ergs",
+      "5.55 \u00d7 10^-6 ergs",
+      "4.65 \u00d7 10^-6 ergs",
+      "7.00 \u00d7 10^-6 ergs",
+      "8.44 \u00d7 10^-6 ergs",
+      "9.32 \u00d7 10^-6 ergs",
+      "7.89 \u00d7 10^-6 ergs"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "chemistry"
+  },
+  {
+    "question": "The energy given up by electrons as they move through the electron transport chain is used to",
+    "options": [
+      "produce ATP",
+      "create carbon dioxide",
+      "make FADH2",
+      "synthesize proteins",
+      "make glucose",
+      "produce water",
+      "break down ATP",
+      "produce ADP",
+      "make NADH",
+      "break down glucose"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "biology"
+  },
+  {
+    "question": "One cubic millimeter of oil is spread on the surface of water so that the oil film has an area of 1 square meter. What is the thickness of the oil film in angstrom units?",
+    "options": [
+      "200 \\AA",
+      "1 \\AA",
+      "0.1 \\AA",
+      "50 \\AA",
+      "500 \\AA",
+      "1500 \\AA",
+      "1000 \\AA",
+      "10 \\AA",
+      "100 \\AA",
+      "5 \\AA"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "chemistry"
+  },
+  {
+    "question": "Mill claims that the principle of utility:",
+    "options": [
+      "can only be proven through extensive observation and study.",
+      "can be proven from principles that are known empirically.",
+      "can be proven, but only under certain conditions.",
+      "is inherently flawed and therefore cannot be proven.",
+      "is a theory that has been widely disproven.",
+      "can be proven, but this is unique to the principle of utility.",
+      "cannot be proven, but this is common to all first principles.",
+      "can be proven, but only by using a complex mathematical model.",
+      "cannot be proven, and this is a unique problem for the theory.",
+      "can be proven from self-evident principles."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "philosophy"
+  },
+  {
+    "question": "The numbers $x$ and $y$ are inversely proportional. When the sum of $x$ and $y$ is 42, $x$ is twice $y$. What is the value of $y$ when $x=-8$?",
+    "options": [
+      "-28",
+      "-56",
+      "-40",
+      "-7",
+      "40",
+      "-49",
+      "49",
+      "-14",
+      "56",
+      "14"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "Let $P_5(x)$ be the fifth-degree Taylor polynomial approximation for f(x)=sin(x), centered at x=0. What is the Lagrange error of the polynomial approximation to sin(1)?.",
+    "options": [
+      "0.02098",
+      "0.00198",
+      "0.000198",
+      "0.01998",
+      "0.0198",
+      "0.19898",
+      "0.0000198",
+      "0.198",
+      "0.0000298",
+      "0.00298"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "math"
+  },
+  {
+    "question": "How many ways are there to color the faces of a cube with three colors, up to rotation?",
+    "options": [
+      "81",
+      "45",
+      "60",
+      "36",
+      "57",
+      "63",
+      "100",
+      "27",
+      "90",
+      "72"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "math"
+  },
+  {
+    "question": "Which of the following statements about bosons and/or fermions is true?",
+    "options": [
+      "Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.",
+      "Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.",
+      "Bosons have antisymmetric wave functions and obey the Pauli exclusion principle.",
+      "Fermions have symmetric wave functions and do not obey the Pauli exclusion principle.",
+      "Fermions have symmetric wave functions and obey the Pauli exclusion principle.",
+      "Bosons have symmetric wave functions and do not obey the Pauli exclusion principle.",
+      "Both fermions and bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.",
+      "Fermions have antisymmetric wave functions and do not obey the Pauli exclusion principle.",
+      "Bosons have symmetric wave functions and obey the Pauli exclusion principle.",
+      "Fermions and bosons both have symmetric wave functions and obey the Pauli exclusion principle."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "physics"
+  },
+  {
+    "question": "Singer claims that famine relief organizations direct our aid to distant refugees:",
+    "options": [
+      "with a focus on quantity over quality, leading to possible misallocation.",
+      "very inefficiently, and are therefore not worth donating to.",
+      "with a high level of bureaucracy and corruption, therefore not recommended.",
+      "more effectively than we could get it to our close neighbors.",
+      "extremely efficiently, making them the only viable option for aid distribution.",
+      "very effectively, but only in certain regions.",
+      "moderately efficiently, although there may be better alternatives.",
+      "almost as effectively as we could get it to our close neighbors.",
+      "effectively, but at a high operational cost."
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "philosophy"
+  },
+  {
+    "question": "A firm produces three different products. They have determined the total cost function of each to be as follows: Product A: Total Cost = $56 + 2X Product B: Total Cost = $56 + 2X + 4X^2 Product C: Total Cost = $56 + 2X -4X^2 4X^2 where X is the number of units produced. Determine from each products cost function whether its productivity is contant, increasing, or decreasing.",
+    "options": [
+      "Product A: decreasing, Product B: increasing, Product C: constant",
+      "Product A: increasing, Product B: constant, Product C: decreasing",
+      "Product A: increasing, Product B: decreasing, Product C: constant",
+      "Product A: decreasing, Product B: decreasing, Product C: constant",
+      "Product A: constant, Product B: constant, Product C: decreasing",
+      "Product A: increasing, Product B: increasing, Product C: decreasing",
+      "Product A: constant, Product B: decreasing, Product C: increasing",
+      "Product A: constant, Product B: increasing, Product C: decreasing",
+      "Product A: decreasing, Product B: increasing, Product C: increasing",
+      "Product A: decreasing, Product B: constant, Product C: increasing"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "business"
+  },
+  {
+    "question": "5.4-19. A doorman at a hotel is trying to get three taxicabs for three different couples. The arrival of empty cabs has an exponential distribution with mean 2 minutes. Assuming independence, what is the probability that the doorman will get all three couples taken care of within 6 minutes?",
+    "options": [
+      "$7$",
+      "$3$",
+      "$2$",
+      "$6$",
+      "$9$",
+      "$5$",
+      "$10$",
+      "$8$",
+      "$4$",
+      "$1$"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true?",
+    "options": [
+      "All the numbers in the pattern can be divided equally by 8.",
+      "All the numbers in the pattern can be divided equally by 10.",
+      "All the numbers in the pattern can be divided equally by 3.",
+      "All the numbers in the pattern can be divided equally by 14.",
+      "All the numbers in the pattern can be divided equally by 6.",
+      "All the numbers in the pattern can be divided equally by 4.",
+      "All the numbers in the pattern can be divided equally by 5.",
+      "All the numbers in the pattern can be divided equally by 9.",
+      "All the numbers in the pattern can be divided equally by 7."
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "math"
+  },
+  {
+    "question": "A developer, owner of several hundred acres in a rural part of the county, drafted a general development plan for the area. The duly recorded plan imposed elaborate limitations and restrictions upon the land in the plan, which was to be developed as a residential district. The restrictions were to extend to all persons acquiring any of the lots and to their heirs, assigns, and lessees. It was further provided that all subsequent owners would be charged with due notice of the restrictions. Among those restrictions in the general plan were the following:(22) A franchise right is created in a strip of land 10 feet in width along the rear of each lot for the use of public utility companies with right of ingress and egress. (23) No house or structure of any kind shall be built on the aforementioned strip of land running through the said blocks. The franchise right created for public utilitycompanies would most likely be an example of a(an)",
+    "options": [
+      "restrictive covenant.",
+      "license.",
+      "real covenant.",
+      "equitable servitude.",
+      "covenant running with the land.",
+      "profit \u00e0 prendre.",
+      "easement in gross.",
+      "allodial title.",
+      "easement appurtenant."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "law"
+  },
+  {
+    "question": "What advantages do microorganisms have over largerforms of life as subjects for genetic investigation?",
+    "options": [
+      "Microorganisms are prime experimental subjects for genetic investigation due to their extremely rapid rate of reproduction, large populations, cost-effectiveness, and simplicity of their genetic material and metabolism.",
+      "Microorganisms are more complex than larger forms of life.",
+      "Microorganisms are larger in size, which makes the manipulation of their genetic material easier.",
+      "Microorganisms have more genes than larger organisms, providing a more comprehensive understanding of genetics.",
+      "Microorganisms require more space and resources for cultivation, which is beneficial for large-scale genetic experiments.",
+      "Microorganisms are less susceptible to genetic mutations, ensuring more consistent experimental results.",
+      "Microorganisms are difficult to breed and reproduce.",
+      "Microorganisms can be easily observed in their natural habitats, making them ideal for genetic studies.",
+      "Microorganisms have no advantage over larger forms of life.",
+      "Microorganisms offer the ability to study long-term evolutionary processes within short time frames due to their longevity."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "biology"
+  },
+  {
+    "question": "Let $A=\\{n+\\sum_{p=1}^{\\infty} a_p 2^{-2p}: n \\in \\mathbf{Z}, a_p=0 or 1 \\}$. What is the Lebesgue measure of A?",
+    "options": [
+      "1.5",
+      "0.25",
+      "4.0",
+      "0.5",
+      "2.0",
+      "Infinity",
+      "The measure is undefined",
+      "1.0",
+      "0.0",
+      "3.0"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "math"
+  },
+  {
+    "question": "Example 5-3 shows that a Maclaurin expansion of a Morse potential leads to\n$$\nV(x)=D \\beta^2 x^2+\\cdots\n$$\nGiven that $D=7.31 \\times 10^{-19} \\mathrm{~J} \\cdot$ molecule ${ }^{-1}$ and $\\beta=1.81 \\times 10^{10} \\mathrm{~m}^{-1}$ for $\\mathrm{HCl}$, calculate the force constant of $\\mathrm{HCl}$.",
+    "options": [
+      "350$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "450$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "490$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "520$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "392$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "600$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "650$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "530$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+      "479$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$ ",
+      "560$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": "A neutron at rest decays (breaks up) to a proton and an electron. Energy is released in the decay and appears as kinetic energy of the proton and electron. The mass of a proton is 1836 times the mass of an electron. What fraction of the total energy released goes into the kinetic energy of the proton?",
+    "options": [
+      "0.1",
+      "0.99",
+      "0.5",
+      "0.000544",
+      "0.544",
+      "0.00544",
+      "0.1836",
+      "0.0000918",
+      "0.0544",
+      "0.9180"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "physics"
+  },
+  {
+    "question": "The _______ is the least developed area of the brain at birth.",
+    "options": [
+      "occipital lobe",
+      "temporal lobe",
+      "parietal lobe",
+      "cerebral cortex",
+      "limbic system",
+      "hypothalamus",
+      "thalamus",
+      "cerebellum",
+      "brain stem"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "psychology"
+  },
+  {
+    "question": "The reaction of Br2(g) with Cl2(g) to form BrCl(g) has an equilibrium constant of 15.0 at a certain temperature. If 10.0 grams of BrCl is initially present in a 15.0-liter reaction vessel, what will the concentration of BrCl be at equilibrium?",
+    "options": [
+      "5.77 \u00d7 10^-3 mol/L",
+      "1.97 \u00d7 10^-3 M",
+      "0.98 \u00d7 10^-3 M",
+      "7.67 \u00d7 10^-3 mol/L",
+      "2.1 \u00d7 10^-3 mol/L",
+      "4.5 \u00d7 10^-3 mol/L",
+      "9.9 \u00d7 10^-4 M",
+      "6.3 \u00d7 10^-4 M",
+      "3.8 \u00d7 10^-3 mol/L",
+      "1.4 \u00d7 10^-3 M"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in the molar Gibbs energy of hydrogen gas when its pressure is increased isothermally from $1.0 \\mathrm{~atm}$ to 100.0 atm at $298 \\mathrm{~K}$.",
+    "options": [
+      "+17 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+7 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+23 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+9 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+13 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+21 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+19 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+5 $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+11$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+      "+15 $\\mathrm{kJ} \\mathrm{mol}^{-1}$"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": "The vice president of sales took a client out to lunch. If the lunch was $44 and she gave a 20% tip, how much money did she spend on lunch?",
+    "options": [
+      "$8.80 ",
+      "$48.80",
+      "$52.80 ",
+      "$35.20 ",
+      "$55.80",
+      "$50.80",
+      "$44.80",
+      "$53.80 ",
+      "$54.80",
+      "$56.80"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "math"
+  },
+  {
+    "question": "Define job satisfaction and explain how the discrepancy theorydeter mines job satisfaction.",
+    "options": [
+      "Job satisfaction is defined as the difference between a person's expectations and perceptions about a given situation. The discrepancy theory determines job satisfaction by examining the extent of the difference between an individual's expectations and perceptions.",
+      "Job satisfaction is how much a person likes their job.",
+      "Job satisfaction is the feeling of accomplishment one gets after completing a task, and discrepancy theory is unrelated to job satisfaction.",
+      "Discrepancy theory determines job satisfaction by comparing a person's job performance to their colleagues' performance.",
+      "Discrepancy theory determines job satisfaction by the alignment of an individual's work values with the company's culture.",
+      "Job satisfaction is solely based on a person's salary.",
+      "Job satisfaction is the level of stress experienced in the workplace, and discrepancy theory assesses satisfaction by the amount of stress relative to stress coping mechanisms.",
+      "Discrepancy theory suggests job satisfaction is based on the difference between an individual's job role and their personal interests.",
+      "Job satisfaction is measured by the number of vacation days an employee receives.",
+      "Job satisfaction is a static state of contentment in one's career, and discrepancy theory posits that satisfaction does not fluctuate over time."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "psychology"
+  },
+  {
+    "question": "In 1987 during Iran Contra what percent of Americans believe Reagan was witholding information?",
+    "options": [
+      "60%",
+      "75%",
+      "80%",
+      "45%",
+      "90%",
+      "2%",
+      "10%",
+      "35%",
+      "50%",
+      "25%"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "other"
+  },
+  {
+    "question": "A store has 8 fish tanks that each have 40 liters of water. Whatis the total number of liters of waterin all of the fish tanks?",
+    "options": [
+      "400",
+      "380",
+      "280",
+      "300",
+      "360",
+      "340",
+      "5",
+      "420",
+      "320",
+      "48"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "math"
+  },
+  {
+    "question": "Which of the following is a frameshift mutation?",
+    "options": [
+      "CAT HAS HIS \u2192 CAT HIS HAT",
+      "CAT HAS HIS \u2192 CAT HATH IS",
+      "CAT HAS HIS \u2192 CAT WAS HIT",
+      "CAT HAS HIS \u2192 CAT HSH ISA",
+      "CAT HAS HIS \u2192 CAT SAW HIS",
+      "CAT HAS HIS \u2192 CAT HAS HIS CAT"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "biology"
+  },
+  {
+    "question": "Erin made 12 pints of juice. She drinks 3 cups of juice each day. How many days will Erin take to drink all of the juice she made?",
+    "options": [
+      "7 days",
+      "2 days",
+      "6 days",
+      "9 days",
+      "16 days",
+      "12 days",
+      "5 days",
+      "8 days",
+      "4 days",
+      "10 days"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "math"
+  },
+  {
+    "question": "The fallacy that involves reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion is known as",
+    "options": [
+      "ad ignorantium",
+      "a priori",
+      "plurium interrogationum",
+      "Extension"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "philosophy"
+  },
+  {
+    "question": "Late one night, co-defendants broke into a warehouse and proceeded to load the large crates of appliances onto their truck. As they were leaving, one of the co-defendants inadvertently threw his cigarette butt into a refuse pile of old cardboard boxes and papers. Soon afterward, the refuse ignited into a small fire. Although the co-defendants had time to douse the fire without any danger to themselves, neither did so. Instead, they climbed into the truck and fled. Meanwhile, the fire quickly spread, engulfing the entire warehouse in flames. At common law, the co-defendants should be found guilty of",
+    "options": [
+      "burglary and larceny.",
+      "burglary only.",
+      "burglary and arson.",
+      "larceny and arson.",
+      "burglary, arson, and criminal negligence.",
+      "burglary, larceny, and arson.",
+      "arson only.",
+      "larceny only.",
+      "larceny, arson, and criminal negligence."
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "law"
+  },
+  {
+    "question": "From the very beginning, I wrote to explain my own life to myself, and I invited any readers who chose to make the journey with me to join me on the high wire. I would work without a net and without the noise of the crowd to disturb me. The view from on high is dizzying, instructive. I do not record the world exactly as it comes to me but transform it by making it pass through a prism of fabulous stories I have collected on the way. I gather stories the way a lepidopterist hoards his chloroformed specimens of rare moths, or Costa Rican beetles. Stories are like vessels I use to interpret the world to myself. ----------Pat Conroy Which of the following best describes the organization of the passage?",
+    "options": [
+      "The author explains the importance of storytelling in understanding the world.",
+      "The author narrates a series of events without providing any interpretation.",
+      "The author contrasts his methods of work with others in his profession.",
+      "The author describes a sequence of events leading to his current work.",
+      "The author uses analogies to explain his experience of a particular action.",
+      "The author discusses the impact of his profession on his personal life.",
+      "The author chronicles the various phases of his work in a particular discipline.",
+      "The author uses his personal experiences to critique societal norms.",
+      "The author makes a comparison between his own experiences and that of others in his profession.",
+      "The author provides several explanations for taking a certain course of action."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "other"
+  },
+  {
+    "question": " Sirius, one of the hottest known stars, has approximately a blackbody spectrum with $\\lambda_{\\max }=260 \\mathrm{~nm}$. Estimate the surface temperature of Sirius.\n",
+    "options": [
+      "8500 $\\mathrm{~K}$",
+      "15000 $\\mathrm{~K}$",
+      "9500 $\\mathrm{~K}$",
+      "11000 $\\mathrm{~K}$\n"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "chemistry"
+  },
+  {
+    "question": "Heteroscedasticity in a scattergram suggests that:",
+    "options": [
+      "there is a restriction of range of scores on the predictor and/or the criterion.",
+      "the variability (range) of scores on the criterion varies for different scores on the predictor.",
+      "there is a statistically significant correlation between the predictor and criterion.",
+      "the predictor and criterion have a negative correlation.",
+      "there is a perfect correlation between the predictor and the criterion.",
+      "the predictor and criterion are independent of each other.",
+      "the relationship between the predictor and criterion cannot be described by a straight line.",
+      "the variability (range) of scores on the predictor is constant for all scores on the criterion.",
+      "the scores on the criterion are uniformly distributed across the range of the predictor.",
+      "the variability (range) of scores on the predictor varies for different scores on the criterion."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "psychology"
+  },
+  {
+    "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+    "options": [
+      "Mengzi",
+      "Zoroastrianism",
+      "Zen Buddhism",
+      "Shintoism",
+      "Vedic Philosophy",
+      "Humanistic Buddhism",
+      "Confucianism",
+      "Legalism",
+      "Yin-Yang School",
+      "Daoism"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "philosophy"
+  },
+  {
+    "question": "Determine if the function f(x, y) = [(x^2 - y^2) / (x^2 + y^2)](1) iscontinuous at the origin.",
+    "options": [
+      "The function is continuous at (0, 0)",
+      "The function is continuous along the line y = x",
+      "The function has a removable discontinuity at the origin",
+      "The function is continuous along the line y = -x",
+      "The function is continuous at all points",
+      "The function is continuous at all points except along the line y = x",
+      "The function is continuous only at the origin",
+      "The function is not continuous at (0, 0)"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "engineering"
+  },
+  {
+    "question": "A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and runny nose. His temperature is 38\u00b0C (100.4\u00b0F). Examination findings are consistent with a diagnosis of a common cold. The physician refers to a randomized, double-blind, placebo-controlled clinical trial that evaluated the effectiveness of a new drug for the treatment of the common cold. The mean time for resolution of symptoms for patients receiving the new drug was 6.4 days, compared with a mean time of 6.7 days for patients receiving the placebo (p=0.04). Which of the following is the most appropriate interpretation of these study results?",
+    "options": [
+      "The findings are statistically significant, but the clinical relevance is undetermined",
+      "The findings are statistically significant, but their clinical significance is negative.",
+      "The findings are neither clinically nor statistically significant",
+      "The findings are clinically and statistically significant",
+      "The findings suggest a potential clinical significance, but are statistically insignificant",
+      "The findings are statistically insignificant, but the clinical relevance is undetermined",
+      "The findings are both clinically and statistically indeterminate",
+      "The findings are statistically insignificant, but they suggest a trend towards clinical significance",
+      "The findings are clinically significant but statistically insignificant",
+      "The findings are clinically insignificant but statistically significant"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "health"
+  },
+  {
+    "question": "When recording peak flow results, within how many litres/minute should the three readings be?",
+    "options": [
+      "70 litres per minute of each other.",
+      "50 litres per minute of each other.",
+      "30 litres per minute of each other.",
+      "10 litres per minute of each other.",
+      "100 litres per minute of each other.",
+      "60 litres per minute of each other.",
+      "20 litres per minute of each other.",
+      "80 litres per minute of each other.",
+      "40 litres per minute of each other.",
+      "90 litres per minute of each other."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "health"
+  },
+  {
+    "question": "Do different emotional states produce different patterns of physiological change? Define directional fractionation.",
+    "options": [
+      "Directional fractionation is a mental response to emotional changes",
+      "Directional fractionation is the increase in heart rate and skin conductance",
+      "Directional fractionation is the synchronization of all physiological responses, such as heart rate and skin conductance, in response to an emotional state",
+      "Directional fractionation is a decrease in both heart rate and skin conductance",
+      "Directional fractionation is an autonomic reaction in which heart rate decreases, while other changes occur in an opposite direction, such as increased skin conductance",
+      "Directional fractionation is the uniform increase in all physiological responses under any emotional stress",
+      "Directional fractionation refers to the random variation of physiological responses independent of emotional states",
+      "Directional fractionation is a psychological state where the perception of emotion is separated from physiological responses",
+      "Directional fractionation is a phenomenon where all physiological responses are diminished in reaction to different emotions",
+      "Directional fractionation is the consistent decrease in physiological responses like heart rate and skin conductance across various emotional states"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "psychology"
+  },
+  {
+    "question": "A man sells novelty items for $1.25 each. His cost is $.75 apiece plus a fixed cost of $140,000. How many items must he sell to break even? What is his sales revenue at that point?",
+    "options": [
+      "180,000 units and $225,000",
+      "220,000 units and $275,000",
+      "240,000 units and $300,000",
+      "200,000 units and $250,000",
+      "350,000 units and $437,500",
+      "260,000 units and $325,000",
+      "250,000 units and $312,500",
+      "280,000 units and $350,000",
+      "300,000 units and $375,000",
+      "320,000 units and $400,000"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "business"
+  },
+  {
+    "question": "Chlorine is found in nature in two isotopic forms, one of atomiemass 35amuand one of atomic mass 37amu. The average atomic mass of chlorine is 35.453amu. What is the percent with which each of these isotopes occurs in nature?",
+    "options": [
+      "The isotope of mass 35amu occurs with 80% and the isotope of mass 37amu occurs with 20%",
+      "The isotope of mass 35amu occurs with 60% and the isotope of mass 37amu occurs with 40%",
+      "The isotope of mass 35amu occurs with 65% and the isotope of mass 37amu occurs with 35%",
+      "The isotope of mass 35amu occurs with 25% and the isotope of mass 37amu occurs with 75%",
+      "The isotope of mass 35amu occurs with 50% and the isotope of mass 37amu occurs with 50%",
+      "The isotope of mass 35amu occurs with 85% and the isotope of mass 37amu occurs with 15%",
+      "The isotope of mass 35amu occurs with 90% and the isotope of mass 37amu occurs with 10%",
+      "The isotope of mass 35amu occurs with 55% and the isotope of mass 37amu occurs with 45%",
+      "The isotope of mass 35amu occurs with 70% and the isotope of mass 37amu occurs with 30%",
+      "The isotope of mass 35amu occurs with 77.35% and the isotope of mass 37amu occurs with 22.65%"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "chemistry"
+  },
+  {
+    "question": "The equilibrium constant, Kc, for the dissociation of HI into hydrogen gas and iodine vapor is 21 at a certain temperature. What will be the molar concentration of iodine vapor if 15 grams of HI gas is introduced into a 12.0-L flask and allowed to come to equilibrium?",
+    "options": [
+      "3.6 \u00d7 10^-3 M",
+      "2.1 mol/L",
+      "4.58 mol/L",
+      "2.8 \u00d7 10^-3 M",
+      "0.00687 mol L-1",
+      "9.76 \u00d7 10^-3 M",
+      "4.4 \u00d7 10^-3 M",
+      "0.015 mol L-1",
+      "5.3 \u00d7 10^-3 M",
+      "1.9 \u00d7 10^-3 M"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "chemistry"
+  },
+  {
+    "question": "A completely submerged object always displaces its own",
+    "options": [
+      "pressure of fluid.",
+      "surface area of fluid.",
+      "density of fluid.",
+      "weight of fluid.",
+      "depth of fluid.",
+      "temperature of fluid.",
+      "All of these.",
+      "viscosity of fluid.",
+      "mass of fluid.",
+      "volume of fluid."
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "physics"
+  },
+  {
+    "question": "Which continent features the earliest evidence of etching into a rock face?",
+    "options": [
+      "Europe",
+      "Africa",
+      "Central America",
+      "Asia",
+      "None of the above",
+      "Antarctica",
+      "South America",
+      "North America",
+      "Australia",
+      "All of the above"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "history"
+  },
+  {
+    "question": "Which of these movies does not star Jim Carrey?",
+    "options": [
+      "The Truman Show'",
+      "Dumb and Dumber'",
+      "'The Cable Guy'",
+      "'Bruce Almighty'",
+      "'Ace Ventura: Pet Detective'",
+      "Patch Adams'",
+      "The Mask'",
+      "'Liar Liar'"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "other"
+  },
+  {
+    "question": "Which of the following is not part of Schein's model of the formation of culture?",
+    "options": [
+      "Group dynamics",
+      "Norms",
+      "Leadership style",
+      "Communication methods",
+      "Shared values",
+      "Pre-conceptions",
+      "Decision-making processes",
+      "Shared beliefs"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "business"
+  },
+  {
+    "question": "Calculate the internal efficiency and reheat factor for a three-stage turbine operating between an initial pressure of 100 psia, saturated steam, and a final pressure of 1 psia. Assume that the approach velocity is negligible, the stage efficiency is 65 percent and the process is isentropic.",
+    "options": [
+      "Efficiency = 0.725, Reheat factor = 1.085",
+      "Efficiency = 0.70, Reheat factor = 1.00",
+      "Efficiency = 0.65, Reheat factor = 1.675",
+      "Efficiency = 0.990, Reheat factor = 1.1187",
+      "Efficiency = 0.80, Reheat factor = 1.15",
+      "Efficiency = 0.953, Reheat factor = 1.1124",
+      "Efficiency = 0.95, Reheat factor = 1.125",
+      "Efficiency = 0.60, Reheat factor = 1.02",
+      "Efficiency = 0.675, Reheat factor = 1.04",
+      "Efficiency = 0.625, Reheat factor = 1.07"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "engineering"
+  },
+  {
+    "question": "As of 2019, about what percentage of South Koreans say it is necessary to believe in God in order to be moral and have good values?",
+    "options": [
+      "10%",
+      "25%",
+      "45%",
+      "50%",
+      "85%",
+      "30%",
+      "90%",
+      "70%",
+      "65%",
+      "55%"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "other"
+  },
+  {
+    "question": "Which of the following phrases is not likely to indicate legitimacy in the new terminology of RMA?",
+    "options": [
+      "Indiscriminate attack.",
+      "Precision target.",
+      "Guided missile.",
+      "Smart bomb.",
+      "Precision-guided munition.",
+      "Intelligent warfare.",
+      "Strategic bombardment.",
+      "Collateral damage control.",
+      "Surgical strike.",
+      "Stealth technology."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "other"
+  },
+  {
+    "question": "Which archaeological method is best for identifying large-scale land modifications?",
+    "options": [
+      "stratigraphic analysis",
+      "resistivity survey",
+      "metal detectors",
+      "ground-penetrating radar",
+      "underwater archaeology",
+      "aerial photography",
+      "excavation",
+      "proton magnetometers",
+      "surface survey",
+      "test pits"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "history"
+  },
+  {
+    "question": "What is aschizo-affectivedisorder ?",
+    "options": [
+      "A schizo-affective disorder is a term used to describe a personality disorder with features similar to both schizophrenia and affective disorders.",
+      "A schizo-affective disorder exclusively involves psychotic symptoms without any mood disturbances.",
+      "A schizo-affective disorder is a psychological condition where mood disorders occur as a reaction to schizophrenia treatment.",
+      "A schizo-affective disorder is characterized by periods of well-being between episodes of schizophrenia and mood disorders.",
+      "A schizo-affective disorder is a combination of schizophrenic and affective disorders, where the affective symptoms must develop before or simultaneously with the psychotic symptoms.",
+      "A schizo-affective disorder is a subtype of affective disorders.",
+      "A schizo-affective disorder is a subtype of schizophrenia.",
+      "A schizo-affective disorder develops after the onset of psychosis.",
+      "A schizo-affective disorder is a chronic condition with only affective or mood-related symptoms.",
+      "A schizo-affective disorder is a mild form of schizophrenia that does not include affective symptoms."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "psychology"
+  },
+  {
+    "question": "What is the fundamental prerequisite for the incorporation of custom under English law?",
+    "options": [
+      "Custom is superior to English law and is always incorporated",
+      "Custom is not incorporated under English law",
+      "Custom is incorporated if it has been approved by the Queen",
+      "Custom is incorporated if it is not in conflict with existing legislation",
+      "Custom is incorporated if it has been practiced for at least a century",
+      "Custom is incorporated if it is ratified by a national referendum",
+      "Custom is only incorporated if it is universally practiced throughout England",
+      "Custom must first be recognised by Parliament before the courts can bring it into the domestic sphere",
+      "Custom is incorporated if it is not in conflict with the common law",
+      "Custom is incorporated with the passing of implementing legislation"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "law"
+  },
+  {
+    "question": "The van der Waal equation is a modification of the ideal gas equation. It reads [P + (an^2 / V^2)] (V - nb) = nRT where P = pressure, V = volume, n = number of moles, R = gas constant, T = absolute temperature, and (a) and (b) are constants for a particular gas. The term an^2 /V^2 corrects the pressure for intermolecular attraction and the term - nb corrects the volume for molecular volume. Using this equation, determine whether a gas becomes more or less ideal when: (a.) the gas is compressed at constant temperature; (b.) more gas is added at constant volume and temperature; and (c.) The temperature of the gas is raised at constant volume.",
+    "options": [
+      "more ideal, less ideal, more ideal",
+      "less ideal, more ideal, less ideal",
+      "more ideal, less ideal, less ideal",
+      "closer to being ideal, more ideal, less ideal",
+      "less ideal, more ideal, more ideal",
+      "less ideal, less ideal, less ideal",
+      "more ideal, more ideal, less ideal",
+      "less ideal, less ideal, closer to being ideal",
+      "more ideal, less ideal, closer to being ideal",
+      "closer to being ideal, less ideal, more ideal"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "chemistry"
+  },
+  {
+    "question": "The critical temperature of a certain liquid of molecular weight 60 g/mole is 400 C. The normal melting point and the melting point at the triple point are, 15.000 C and 14.980 C respectively. (At the triple point the system is subjected only to its own low vapor pressure). Calculate a) \u2206H_vap, b) \u2206H_s, c) \u2206H_f, d) the vapor pressure at the triple point, given that the solid and liquid densities of the liquid are 0.85 and 0.80 g/cc, respec-tively.",
+    "options": [
+      "\u2206H_vap= 7.45 kcal, \u2206H_fus= 1.3 kcal, \u2206H_S = 8.75 kcal, P_1 = 2.5 mm Hg",
+      "\u2206H_vap= 9.45 kcal, \u2206H_fus= 1.5 kcal, \u2206H_S = 10.95 kcal, P_1 = 2.08 mm Hg",
+      "\u2206H_vap= 10.05 kcal, \u2206H_fus= 1.4 kcal, \u2206H_S = 11.45 kcal, P_1 = 2.18 mm Hg",
+      "\u2206H_vap= 7.95 kcal, \u2206H_fus= 2.2 kcal, \u2206H_S = 10.15 kcal, P_1 = 2.88 mm Hg",
+      "\u2206H_vap= 8.75 kcal, \u2206H_fus= 2.1 kcal, \u2206H_S = 10.85 kcal, P_1 = 3.18 mm Hg",
+      "\u2206H_vap= 9.15 kcal, \u2206H_fus= 1.8 kcal, \u2206H_S = 10.95 kcal, P_1 = 1.98 mm Hg",
+      "\u2206H_vap= 8.45 kcal, \u2206H_fus= 2.5 kcal, \u2206H_S = 11.95 kcal, P_1 = 3.08 mm Hg",
+      "\u2206H_vap= 8.95 kcal, \u2206H_fus= 2.0 kcal, \u2206H_S = 10.95 kcal, P_1 = 2.58 mm Hg",
+      "\u2206H_vap= 10.45 kcal, \u2206H_fus= 1.7 kcal, \u2206H_S = 12.15 kcal, P_1 = 1.08 mm Hg",
+      "\u2206H_vap= 9.75 kcal, \u2206H_fus= 1.6 kcal, \u2206H_S = 11.35 kcal, P_1 = 2.28 mm Hg"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "chemistry"
+  },
+  {
+    "question": "A state has had a tremendous influx of retired people in recent years. There has been considerable concern among state health officials who foresee that many of the senior citizens will become victims of price gouging on certain medical supplies and services. In an attempt to curb such fraudulent sales practices, the state legislature has enacted a law prohibiting the sale of hearing aids by non-physicians. The measure provides, however, that all non-physician sellers who are presently engaged in the business of selling hearing aids will not be affected. Assume that after the statute goes into effect, a non-physician moves to the state and wants to open a business selling hearing aids. After being advised that the state law prohibits him from doing so, he brings suit challenging the constitutionality of the statute. The most likely result is that the state law will be declared",
+    "options": [
+      "unconstitutional, because it violates the commerce clause, since Congress has plenary power to regulate any activity that has any appreciable effect on interstate commerce.",
+      "unconstitutional, because it creates an unfair trade barrier for non-physicians wanting to start a business in the state.",
+      "constitutional, as it aims to protect a vulnerable segment of the population from potential exploitation.",
+      "constitutional, because there is a rational basis for distinguishing between non-physicians are not so engaged.",
+      "unconstitutional, because it discriminates between non-physicians already in the business and those wanting to enter it.",
+      "unconstitutional, because it restricts the rights of non-physicians to conduct a legitimate business.",
+      "constitutional, because it falls under the state's power to regulate healthcare and related services.",
+      "constitutional, because it does not infringe upon the rights of non-physicians not already in the business of selling hearing aids.",
+      "constitutional, because a state has the power to regulate any phase of local business, even though such regulations may have some effect on interstate commerce, provided that Congress has not enacted legislation regarding the subject matter."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "law"
+  },
+  {
+    "question": "Calculate the quantity of heat required to (a) convert a liter of H_2O at 30\u00b0C to a liter of water at 60\u00b0C, and (b) heat a 1 kg block of aluminum from 30\u00b0 to 60\u00b0C. Assume the specific heat of water and aluminum is, re-spectively, 1 cal/g\u00b0C and .215 cal/g\u00b0C.",
+    "options": [
+      "28 Kcal, 6.3 Kcal",
+      "40 Kcal, 5 Kcal",
+      "30 Kcal, 8.58 Kcal",
+      "25 Kcal, 8 Kcal",
+      "29 Kcal, 7.77 Kcal",
+      "34 Kcal, 6.9 Kcal",
+      "30 Kcal, 6.45 Kcal",
+      "32 Kcal, 7 Kcal",
+      "35 Kcal, 7.5 Kcal",
+      "31 Kcal, 6.15 Kcal"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "chemistry"
+  },
+  {
+    "question": "Gulde\u2019s tax basis in Chyme Partnership was $26,000 at the time Gulde received a liquidating distribution of $12,000 cash and land with an adjusted basis to Chyme of $10,000 and a fair market value of $30,000. Chyme did not have unrealized receivables, appreciated inventory, or properties that had been contributed by its partners. What was the amount of Gulde\u2019s basis in the land?",
+    "options": [
+      "$28,000",
+      "$30,000",
+      "$14,000",
+      "$24,000",
+      "$10,000",
+      "$26,000",
+      "$20,000",
+      "$0",
+      "$16,000",
+      "$12,000"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "other"
+  },
+  {
+    "question": " Richardson-Self argues that sexist speech",
+    "options": [
+      "Can never be considered hate speech regardless of context",
+      "Is never hate speech because it is a form of free expression.",
+      "is always hate speech, because it does not involves violence.",
+      "is not always hate speech, because it does not involve violence",
+      "is always hate speech, because it involves violence.",
+      "Is not hate speech because it is protected under freedom of speech",
+      "Is always hate speech because it promotes gender inequality",
+      "Is only hate speech when it directly incites violence",
+      "Can be considered hate speech when it promotes discrimination",
+      "I s not always hate speech, because it always involves violence."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "philosophy"
+  },
+  {
+    "question": "Calculate the energy change, \\DeltaE, for the reaction H_2(g) +(1/2)O_2(g) = H_2O(liq)(1) Given that the heat of combustion of H_2(g) at 1atmand 25\u00b0C is - 68.32 kcal mol^-1 . Pressure is constant and water has a density of 1.00 \u00d7 10^3 kg m^-3 .",
+    "options": [
+      "- 340.8 kJ",
+      "- 570.0 kJ",
+      "+ 68.32 kJ",
+      "+ 285.9 kJ",
+      "- 282.2 kJ",
+      "- 150.5 kJ",
+      "- 68.32 kJ",
+      "- 136.64 kJ",
+      "- 3.7 kJ",
+      "- 285.9 kJ"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "chemistry"
+  },
+  {
+    "question": "Which method of abortion is most costly and carries the greatest risk of complications?",
+    "options": [
+      "manual vacuum aspiration",
+      "saline-induced abortion",
+      "medical abortion with misoprostol",
+      "hysterotomy",
+      "suction aspiration",
+      "dilation and curettage",
+      "medical abortion with methotrexate and misoprostol",
+      "mifepristone abortion",
+      "dilation and evacuation",
+      "prostaglandin abortion"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "other"
+  },
+  {
+    "question": " _______, where actors are convinced that their actions harms nobody, _______ where actors argue that their norm violation is an attempt to realize higher-order values and ________ , where actors argue they are owed something, are all strategies for justifying or denying unethical behaviour.",
+    "options": [
+      "Appeal to higher loyalties, Metaphor of the ledger, Denial of injury",
+      "Denial of injury, Metaphor of the ledger, Appeal to higher loyalties,",
+      "Denial of injury, Metaphor of the balance, Appeal to higher loyalties",
+      "Metaphor of the ledger, Denial of injury, Appeal to higher loyalties",
+      "Denial of responsibility, Metaphor of the ledger, Appeal to higher loyalties",
+      "Appeal to higher loyalties, Denial of injury, Metaphor of the ledger",
+      "Denial of victim, Appeal to higher loyalties, Metaphor of the ledger",
+      "Appeal to higher loyalties, Denial of responsibility, Metaphor of the ledger",
+      "Metaphor of the ledger, Denial of victim, Appeal to higher loyalties",
+      "Denial of injury, Appeal to higher loyalties, Metaphor of the ledger"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "business"
+  },
+  {
+    "question": "What will be the properties of the OLS estimator in the presence of multicollinearity?",
+    "options": [
+      "It will not be unbiased or efficient",
+      "It will be consistent and efficient but not unbiased",
+      "It will be efficient but not consistent or unbiased",
+      "It will be efficient and unbiased but not consistent",
+      "It will be consistent and unbiased but not efficient",
+      "It will not be efficient",
+      "It will not be consistent",
+      "It will be consistent but not unbiased",
+      "It will be unbiased but not consistent",
+      "It will be consistent, unbiased and efficient"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "economics"
+  },
+  {
+    "question": "A metal has an atomic weight of 24. When it reacts with a non-metal of atomic weight 80, it does so in a ratio of 1 atom to 2 atoms, respectively. With this information, how many grams of non-metal will combine with 33.3 g of metal. If 1 g of metal is reacted with 5 g of non-metal, find the amount of product produced.",
+    "options": [
+      "225 grams, 5.85 grams",
+      "250 grams, 6.25 grams",
+      "205 grams, 4.95 grams",
+      "260 grams, 5.25 grams",
+      "210 grams, 5.5 grams",
+      "240 grams, 6.5 grams",
+      "215 grams, 5.65 grams",
+      "200 grams, 5 grams",
+      "230 grams, 6 grams",
+      "220 grams, 5.75 grams"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "chemistry"
+  },
+  {
+    "question": "Assuming the Bohr radius is 0.5292 \u00d7 10^-8 cm, what frequency of a light wave has the same wavelength as the Bohr radius?",
+    "options": [
+      "5.665 \u00d7 10^17 sec^-1",
+      "7.665 \u00d7 10^17 sec^-1",
+      "4.565 \u00d7 10^17 sec^-1",
+      "3.665 \u00d7 10^18 sec^-1",
+      "6.665 \u00d7 10^18 sec^-1",
+      "4.665 \u00d7 10^18 sec^-1",
+      "6.665 \u00d7 10^17 sec^-1",
+      "5.765 \u00d7 10^17 sec^-1",
+      "5.665 \u00d7 10^18 sec^-1",
+      "6.565 \u00d7 10^18 sec^-1"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "chemistry"
+  },
+  {
+    "question": "Using conditioning, how can one determine the sensitivity of a dog's hearing to sounds of different frequencies?",
+    "options": [
+      "By using a controlled group of dogs not exposed to the sounds",
+      "By using sensory deprivation to heighten hearing sensitivity",
+      "By observing the dog's natural behavior in different sound environments",
+      "By using negative reinforcement only",
+      "By using operant conditioning",
+      "By measuring the dog's heart rate response to sounds",
+      "By using a placebo sound and measuring the dog's reaction",
+      "By using classical conditioning",
+      "By using aversive conditioning techniques",
+      "By using positive reinforcement only"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "biology"
+  },
+  {
+    "question": "Which of the following satisfies the criteria for tertiary prevention in a school setting",
+    "options": [
+      "Large-group programs emphasizing development of children's self- esteem",
+      "Mandatory health screenings for all students",
+      "School-wide campaigns promoting healthy eating habits",
+      "Small-group counseling of students affected by initial stages of divorce",
+      "Regular teacher-parent meetings to discuss student progress",
+      "Individual counseling for students resuming from an institutional care facility",
+      "Career guidance offered students unsure about plans after graduation",
+      "Large-group seminars about the dangers of drug and alcohol abuse",
+      "Implementing school-wide anti-bullying programs",
+      "Providing physical education classes to all students"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "psychology"
+  },
+  {
+    "question": "Late one evening, a police department received a telephone call from an unidentified woman who reported hearing loud shrieks and screams from a neighboring home. The caller furnished the police with the address where the disturbance was taking place. When the police arrived at the home, they discovered the homeowner, bludgeoned to death. The murder weapon was a blood-stained baseball bat found near the victim's body. A subsequent investigation revealed that the homeowner had recently been separated from her husband who had since moved to another city. After questioning several of the victim's friends and relatives, the police concluded that the husband was a prime suspect in the murder. Thus, two detectives went to question the husband about the killing. When they arrived at his apartment, the detectives persuaded the landlord to let them into his apartment. Finding no one inside, they searched the apartment. Before leaving, the detectives took a box of cereal, which they planned to use for a fingerprint comparison. The prints from the cereal box matched those found on the baseball bat. The police provided the grand jury investigating the murder with the fingerprint comparison. The husband is subsequently subpoenaed to testify before the grand jury. Before his scheduled appearance, the husband files a motion to suppress evidence of the fingerprint comparison, contending that the evidence was illegally obtained. His motion should be",
+    "options": [
+      "granted, because the cereal box was not in plain sight during the search.",
+      "denied, because the exclusionary rule has not been extended to grand jury hearings.",
+      "granted, because the grand jury is barred from considering illegally obtained evidence.",
+      "granted, because the warrantless search of the husband's apartment was unconstitutional.",
+      "denied, because the landlord gave the police permission to enter the apartment.",
+      "granted, because the police had no proof of the husband's involvement at the time of the search.",
+      "denied, because the fingerprint evidence was crucial to the investigation.",
+      "granted, because the police did not have the husband's consent to search his apartment.",
+      "denied, because the husband was not present during the search of his apartment."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "law"
+  },
+  {
+    "question": "Solve 5 over 8 *m = 6.",
+    "options": [
+      "5 and 1 over 3",
+      "6 and 1 over 2",
+      "7 and 1 over 2",
+      "9 and 3 over 5",
+      "3 and 3 over 4",
+      "4 and 2 over 3",
+      "3 and 5 over 9",
+      "8 and 3 over 4",
+      "10 and 2 over 5",
+      "2 and 3 over 8"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "math"
+  },
+  {
+    "question": "Assuming constant field excitation, calculate the no-load voltage of a separately excited generator whose armature voltage is 150 V at a speed of 1800 rpm, when (a) The speed is increased to 2000 rpm. (b) The speed is reduced to 1600 rpm.",
+    "options": [
+      "175.5 V and 125.5 V",
+      "200 V and 160 V",
+      "165 V and 135 V",
+      "210 V and 120 V",
+      "166.7 V and 133.3 V",
+      "158.3 V and 141.7 V",
+      "190 V and 110 V",
+      "150 V and 180 V",
+      "145 V and 155 V",
+      "183.3 V and 116.7 V"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "engineering"
+  },
+  {
+    "question": "What is the difference between convergent and divergent thinking?",
+    "options": [
+      "Convergent thinking applies to artistic endeavors, while divergent thinking is for scientific research.",
+      "Convergent thinking involves searching for one solution to a problem while divergent thinking involves generating a number of possible solutions.",
+      "Convergent thinking is used for abstract problems, while divergent thinking is used for practical problems.",
+      "Convergent thinking is primarily creative while divergent thinking is logical",
+      "Convergent thinking involves generating multiple solutions while divergent thinking focuses on one solution",
+      "Convergent and divergent thinking are the same",
+      "Convergent thinking is a group activity, whereas divergent thinking is an individual process.",
+      "Convergent thinking requires brainstorming, whereas divergent thinking requires following a linear path to a solution.",
+      "Convergent thinking involves emotional responses, while divergent thinking is based on analytical reasoning.",
+      "Convergent thinking focuses on the process, while divergent thinking focuses on the outcome."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "psychology"
+  },
+  {
+    "question": "Which sequence describes the systemic circulation?",
+    "options": [
+      "Left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins",
+      "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins",
+      "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries",
+      "Right ventricle \u2192 pulmonary trunk \u2192 capillaries \u2192 arteries \u2192 veins",
+      "Left atrium \u2192 left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins",
+      "Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192 veins",
+      "Left atrium \u2192 left ventricle \u2192 aorta \u2192 veins \u2192 capillaries \u2192 arteries",
+      "Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries",
+      "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+      "Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 veins \u2192 capillaries \u2192 arteries"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "health"
+  },
+  {
+    "question": "J.G. Dojahn, et al. (J. Phys. Chem. 100, 9649 (1996)) characterized the potential energy curves of the ground and electronic states of homonuclear diatomic halogen anions. The ground state of $\\mathrm{F}_2^{-}$is ${ }^2 \\sum_{\\mathrm{u}}^{+}$with a fundamental vibrational wavenumber of $450.0 \\mathrm{~cm}^{-1}$ and equilibrium internuclear distance of $190.0 \\mathrm{pm}$. The first two excited states are at 1.609 and $1.702 \\mathrm{eV}$ above the ground state. Compute the standard molar entropy of $\\mathrm{F}_2^{-}$at $298 \\mathrm{~K}$.",
+    "options": [
+      "235.1 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "199.4 $\\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "183.2 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "220.8 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "250.3 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "162.9 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "208.5 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "215.6 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "174.7 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+      "188.6 $\\mathrm{J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "chemistry"
+  },
+  {
+    "question": "One model for the spread of an epidemic is that the rate of spread is jointly proportional to the number of infected people and the number of uninfected people. In an isolated town of 5000 inhabitants, 160 people have a disease at the beginning of the week and 1200 have it at the end of the week. How long does it take for $80 \\%$ of the population to become infected?",
+    "options": [
+      "22 days",
+      "20 $\\mathrm{days}$",
+      "12 days",
+      "18 days",
+      "8 days",
+      "30 days",
+      "25 $\\mathrm{days}$",
+      "10 $\\mathrm{days}$",
+      "15 $\\mathrm{days}$",
+      "35 days"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "math"
+  },
+  {
+    "question": "The Amalgamated Loan Company received a 6-months note for $1,500, bearing 6% interest and dated May 17, 1976. On September 22, 1976, the note was discounted at 8%. What were the proceeds?",
+    "options": [
+      "$1,510.90",
+      "$1,545",
+      "$1,600",
+      "$1,550.50",
+      "$1,475.82",
+      "$1,500",
+      "$1,490.30",
+      "$1,565.00",
+      "$1,525.77",
+      "$1,570.25"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "business"
+  },
+  {
+    "question": "The pharaoh ruled a population of ________, of which _________ were farmers.",
+    "options": [
+      "5,000,000; 100%",
+      "3,000,000; 75%",
+      "4,000,000; 80%",
+      "2,500,000; 90%",
+      "1,500,000; 70%",
+      "100,000; 25%",
+      "500,000; 50%",
+      "750,000; 30%",
+      "1,000,000; 50%",
+      "2,000,000; 60%"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "history"
+  },
+  {
+    "question": "A 3-liter bulb containing oxygen at 195 torr is connected to a 2-liter bulb containing nitrogen at 530 torr by means of a closed valve. The valve is opened and the two gases are allowed to equilibrate at constant temperature, T. Calculate the equilibrium pressure.",
+    "options": [
+      "725 torr",
+      "485 torr",
+      "530 torr",
+      "250 torr",
+      "329 torr",
+      "362.5 torr",
+      "195 torr",
+      "5 liters",
+      "150 torr",
+      "400 torr"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "chemistry"
+  },
+  {
+    "question": "In periods of great difficulty and stress, it appears that the Minoans __________ in order to appease the gods.",
+    "options": [
+      "stopped all forms of art and music",
+      "fasted for long periods",
+      "built monumental structures",
+      "sacrificed adults and occasionally children",
+      "burnt their own houses to the ground",
+      "abstained from sexual relations",
+      "enacted strict laws and punishments",
+      "buried their possessions",
+      "performed complex dance rituals",
+      "migrated to different regions"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "history"
+  },
+  {
+    "question": "A 17-year-old girl is brought to the physician by her mother because she has not had a menstrual period for 6 months. The patient is unconcerned about the lack of menses. Menarche occurred at the age of 12 years, and menses had occurred at regular 28-day intervals until they became irregular 1 year ago. She is a member of her high school gymnastics team. She appears emaciated. She is 163 cm (5 ft 4 in) tall and weighs 40 kg (88 lb); BMI is 15 kg/m2 . Her pulse is 54/min, and blood pressure is 80/50 mm Hg. Which of the following is the most likely cause of this patient's amenorrhea?",
+    "options": [
+      "Polycystic ovarian syndrome",
+      "Prolactinoma",
+      "Cushing's syndrome",
+      "Premature ovarian failure",
+      "Hyperthyroidism",
+      "Pregnancy",
+      "Hypogonadotropic hypogonadism",
+      "Hypothyroidism",
+      "Turner syndrome"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "health"
+  },
+  {
+    "question": "Carlos could consistently differentiate the note middle C on the violin from middle C on the piano because of the difference in",
+    "options": [
+      "frequency",
+      "timbre",
+      "primary wavelength",
+      "pitch",
+      "resonance",
+      "intensity",
+      "modulation",
+      "amplitude"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "psychology"
+  },
+  {
+    "question": "Behavioral treatments for depression typically include:",
+    "options": [
+      "Hypnosis",
+      "Sleep deprivation",
+      "Medication only",
+      "Increasing pleasurable activities",
+      "Isolation therapy",
+      "Exposure and Response Prevention",
+      "Flooding",
+      "Aromatherapy",
+      "Regressive therapy"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "psychology"
+  },
+  {
+    "question": "In which type of research there is no manipulation of research done and variables are just measured, not manipulated? From your knowledge about research designs and strategies, choose the correct answer.",
+    "options": [
+      "QUALITATIVE RESEARCH",
+      "EXPLORATORY RESEARCH",
+      "LONGITUDINAL RESEARCH",
+      "TRUE EXPERIMENTAL RESEARCH",
+      "QUASI-EXPERIMENTAL RESEARCH",
+      "CORRELATIONAL RESEARCH",
+      "DEVELOPMENTAL RESEARCH"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "psychology"
+  },
+  {
+    "question": " Which early battle led to the conversion of Mecca?",
+    "options": [
+      "The Battle of Badr",
+      "The Battle of Yamama",
+      "The Battle of Hunayn",
+      "The Battle of Mut'ah",
+      "The Battle of Tabuk",
+      "The Battle of Khaybar",
+      "The Battle of Camel",
+      "The Battle of the Trench",
+      "The Battle of Ta'if",
+      "The Battle of Uhud"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "philosophy"
+  },
+  {
+    "question": "The marginal cost of producing an item is y' = 3 + x + [(e^-x) / 4]. What does it cost to produce one item if the fixed cost is $4?",
+    "options": [
+      "$7.45",
+      "$7.30",
+      "$7.20",
+      "$7.55",
+      "$8.00",
+      "$7.85",
+      "$7.66",
+      "$8.25",
+      "$7.77",
+      "$7.99"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "business"
+  },
+  {
+    "question": "The emissivity of a hemispherical surface of a 2 in. diameter steel rod is 0.88. The surface temperature of the rod is 1400\u00b0F. The rod is quenched in saturated water at 220\u00b0F. Determine the average heat transfer coefficient between the horizontal bar and the water.",
+    "options": [
+      "38.48 Btu/hr-ft^2 -\u00b0F",
+      "42.55 Btu/hr-ft^2 -\u00b0F",
+      "29.84 Btu/hr-ft^2 -\u00b0F",
+      "27.39 Btu/hr-ft^2 -\u00b0F",
+      "37.93 Btu/hr-ft^2 -\u00b0F",
+      "45.78 Btu/hr-ft^2 -\u00b0F",
+      "30.22 Btu/hr-ft^2 -\u00b0F",
+      "25.67 Btu/hr-ft^2 -\u00b0F",
+      "34.26 Btu/hr-ft^2 -\u00b0F",
+      "31.10 Btu/hr-ft^2 -\u00b0F"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "engineering"
+  },
+  {
+    "question": "In which of the following stages does an indigent person not have the Sixth Amendment right to counsel?",
+    "options": [
+      "Execution of the arrest warrant",
+      "investigative surveillance",
+      "Police interrogation prior to arrest",
+      "Post-charge lineups",
+      "Preliminary Hearing",
+      "Arraignment"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "law"
+  },
+  {
+    "question": "The threshold wavelength for potassium metal is $564 \\mathrm{~nm}$. What is its work function? \n",
+    "options": [
+      "4.65$10^{-19} \\mathrm{~J}$",
+      "2.78$10^{-19} \\mathrm{~J}$",
+      "5.00$10^{-19} \\mathrm{~J}$",
+      "2.21$10^{-19} \\mathrm{~J}$",
+      "3.01$10^{-19} \\mathrm{~J}$",
+      "3.52$10^{-19} \\mathrm{~J}$",
+      "3.98$10^{-19} \\mathrm{~J}$",
+      "2.50$10^{-19} \\mathrm{~J}$",
+      "1.67$10^{-19} \\mathrm{~J}$",
+      "4.20$10^{-19} \\mathrm{~J}$"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "chemistry"
+  },
+  {
+    "question": "Consider a horizontal strip of N+2 squares in which the first and the last square are black and the remaining N squares are all white. Choose a white square uniformly at random, choose one of its two neighbors with equal probability, and color this neighboring square black if it is not already black. Repeat this process until all the remaining white squares have only black neighbors. Let $w(N)$ be the expected number of white squares remaining. What is the limit of $w(N)/N$ as $N$ goes to infinity?",
+    "options": [
+      "0.32192809",
+      "0.4567890",
+      "0.36787944",
+      "0.22313016",
+      "0.2789456",
+      "0.5",
+      "0.13533528",
+      "0.69314718",
+      "0.5789098",
+      "0.60653065"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "math"
+  },
+  {
+    "question": "A seat in a movie theater collapsed, causing the customer sitting in that seat to fall to the ground and suffer a back injury. In a personal injury action by the customer against the theater, the customer will most likely",
+    "options": [
+      "not recover, because the customer assumed the risk by choosing to sit in the seat.",
+      "not recover, unless the customer had informed the theater about the faulty seat before the accident.",
+      "recover, only if the theater had received previous complaints about the seat.",
+      "recover, if the theater failed to put up a warning sign about the faulty seat.",
+      "recover, only if the theater had prior knowledge of the dangerous condition of the seat.",
+      "recover, only if the customer can prove the theater's negligence in maintaining the seat.",
+      "not recover, unless the theater failed to make a reasonable inspection of the seats for the safety of its customers.",
+      "not recover, because the customer did not suffer any permanent injury.",
+      "not recover, because the theater was under no obligation to inspect the premises to discover unknown dangers."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "law"
+  },
+  {
+    "question": "For matrix A = [[2, 4, 3], [3, 0, 1], [1, 2, 5]], what is its determinant?",
+    "options": [
+      "42",
+      "0",
+      "15",
+      "30",
+      "60",
+      "-20",
+      "-42",
+      "-30",
+      "20",
+      "-15"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "math"
+  },
+  {
+    "question": "How much work is required to charge a 10 \u00b5F capacitor to a potential difference of 100 V ?",
+    "options": [
+      "0.0005 J",
+      "0.05 J",
+      "0.005 J",
+      "1 J",
+      "0.1 J",
+      "0.5 J",
+      "0.01 J",
+      "0.02 J",
+      "0.2 J"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "physics"
+  },
+  {
+    "question": "If six messages having probabilities (1 / 4), (1 / 4), (1 / 8), (1 / 8), (1 / 8) and (1 / 8) can be accommodated in a single communication system, determine the entropy.",
+    "options": [
+      "2.00 bits/message",
+      "2.25 bits/message",
+      "1.75 bits/message",
+      "3.00 bits/message",
+      "2.75 bits/message",
+      "3.25 bits/message",
+      "4.00 bits/message",
+      "3.50 bits/message",
+      "2.50 bits/message",
+      "1.50 bits/message"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "engineering"
+  },
+  {
+    "question": "Traditionally consumer rights were based on the notion of _______ or _______ where the responsibility lay with consumer to avoid subpar products. However, this has gradually eroded due to increased ________ at a ________, EU and UN level.",
+    "options": [
+      "Caveat emptor, Buyer beware, Regulation, National",
+      "Cemptor Eaveat, Company Responsibility, Informal Codes, International",
+      "Caveat vendor, Company Responsibility, Regulation, National",
+      "Caveat vendor, Seller beware, Informal Codes, International",
+      "Caveat vendor, Buyer beware, Regulation, International",
+      "Caveat emptor, Company Responsibility, Informal Codes, International",
+      "Caveat emptor, Company Responsibility, Informal codes, International",
+      "Caveat emptor, Buyer beware, Informal codes, National",
+      "Cemptor Eaveat, Buyer beware, Regulation, National",
+      "Caveat emptor, Seller beware, Informal codes, National"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "business"
+  },
+  {
+    "question": "The creatine kinase reaction is:",
+    "options": [
+      "constantly activated, regardless of ATP levels.",
+      "more efficient than glycolysis.",
+      "slow compared with glycolysis.",
+      "not involved in energy production.",
+      "irreversible.",
+      "activated by high pH in the muscle.",
+      "not activated until all the ATP has been used up.",
+      "only activated during intense exercise.",
+      "inhibited by low pH in the muscle."
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "health"
+  },
+  {
+    "question": "Describe the kingdoms within which algae are classified.",
+    "options": [
+      "Algae are classified under the Fungi, Plantae, and Archaea kingdoms.",
+      "Algae are categorized solely within the Bacteria kingdom.",
+      "Algae are only classified under the Plant kingdom.",
+      "Algae fall into the Animal, Fungi, and Protista kingdoms.",
+      "Algae are exclusively part of the Protista kingdom, with no sub-kingdom classifications.",
+      "Algae are divided among the Protista, Fungi, and Viruses kingdoms.",
+      "Algae are grouped into the Animalia, Plantae, and Protista kingdoms.",
+      "Algae fall into the Plant, Protistan, and Monera kingdoms, including the Chlorophyta, Rhodophyta, Phaeophyta, Euglenophyta, Chrysophyta, Pyrrophyta, and Cyanophyta.",
+      "Algae are classified under the Plant, Animal and Fungi kingdoms.",
+      "Algae fall into the Protista, Bacteria, and Archaea kingdoms."
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "biology"
+  },
+  {
+    "question": "Using Fermat's theorem, find the remainder of 3^47 when it is divided by 23.",
+    "options": [
+      "10",
+      "2",
+      "8",
+      "4",
+      "5",
+      "7",
+      "3",
+      "9",
+      "1",
+      "6"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "math"
+  },
+  {
+    "question": "A farmer purchased a new pickup truck from a local automobile dealership. A few weeks later, the farmer was using the truck to haul a load of supplies to his farm. As he drove down a small hill toward an intersection with a stop sign, he applied the brakes, but they failed to work, and the truck did not slow down. The farmer could not stop for the stop sign. He saw a pedestrian crossing the street at the intersection and tried to steer around him, but was unable to do so. The pickup truck struck the pedestrian and seriously injured him. If the injured pedestrian asserts a negligence claim against the auto dealership that sold the truck to the farmer, and if it is conclusively proven that the brake failure resulted from a manufacturing defect in the car, will the pedestrian prevail?",
+    "options": [
+      "No, because the pedestrian was not a purchaser or user of the truck.",
+      "Yes, if the manufacturing company had issued a recall for the defect.",
+      "No, if the farmer was speeding and therefore could not stop in time.",
+      "Yes, if the defect could have been discovered through the exercise of reasonable care by the auto dealer.",
+      "No, if the pedestrian was crossing the street illegally.",
+      "No, if the farmer was negligent in being unable to steer around and avoid hitting the pedestrian.",
+      "Yes, if the auto dealer was aware of the defect but did not inform the farmer.",
+      "No, because the farmer should have had the truck inspected before using it for heavy duty work."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "law"
+  },
+  {
+    "question": "What is the coefficient of $x^2y^5$ for the formula $(x + 2y)^7$?",
+    "options": [
+      "924",
+      "560",
+      "792",
+      "420",
+      "252",
+      "672",
+      "1280",
+      "495",
+      "840",
+      "1050"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "math"
+  },
+  {
+    "question": "Mr. Williams, upon filing a petition for bankruptcy, stated that he had a total of only $2,240 in assets, with liabilities amounting to $5,600. How much money can Mr. Johnson, a creditor, expect to receive if he has a claim of $1,725?",
+    "options": [
+      "$1,725",
+      "$1,120",
+      "$690",
+      "$2,240",
+      "$870",
+      "$860",
+      "$1,360",
+      "$345",
+      "$0",
+      "$5,600"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "business"
+  },
+  {
+    "question": "Find the magnitude of E for a plane wave in free space, if the magnitude of H for this wave is 5 amp/meter.",
+    "options": [
+      "1200 volts/meter",
+      "5 ohms",
+      "1883 volts/meter",
+      "940.5 volts/meter",
+      "5 volts/meter",
+      "1883 ohms",
+      "600 volts/meter",
+      "376.7 volts/meter",
+      "75.34 ohms",
+      "75.34 volts/meter"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "engineering"
+  },
+  {
+    "question": "Which of the following statements about the global ageing population is correct?\n",
+    "options": [
+      "In older age groups men outnumber women.",
+      "The rate of increase in the median age of populations is slower in developing countries than wealthy countries.",
+      "The global aging population is decreasing due to advancements in healthcare.",
+      "By 2050, the majority of the world's population will be under the age of 40.",
+      "Men have a lower mortality rate than women, over the life course.",
+      "The rate of increase in the median age of populations is greater in developing countries than wealthy countries.",
+      "In older age groups, the number of men and women is equal."
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "health"
+  },
+  {
+    "question": "The police arrested a man for the murder of his live-in fianc\u00c3\u00a9e after the woman's dead body was found in the basement of their apartment building. At trial, the prosecution attempted to present the testimony of the victim's out-of-state sister regarding a telephone conversation she had with the defendant. She had called their landline number to talk with her sister on the same day when he had first reported to the police that his fianc\u00c3\u00a9 had been missing for five days. The sister had not met the man but had spoken with him briefly a few other times. He told her that her sister \"went out all night last night and did not return yet.\" The prosecution attempted at trial to have the sister testify to the conversation to show the significant discrepancy between his stories to the police and to her. The defense objected, arguing that she couldn't authenticate the conversation because she couldn't identify the speaker as the defendant nor had she ever met him. The prosecution told the court that she felt it was \"probably\" his voice, which she recollected from the prior talks at the same number. Will the court likely grant the defendant's objection to the testimony?",
+    "options": [
+      "Yes, because the conversation is hearsay and there are no exceptions that would allow it into evidence.",
+      "Yes, because the sister does not have sufficient experience and knowledge to be able to identify the man's voice and to say that the voice and the defendant were the same person.",
+      "Yes, because the conversation is irrelevant to the case.",
+      "Yes, because the sister's testimony could be considered as prejudicial against the defendant.",
+      "No, because the court can consider the sister's past interactions with the defendant over the phone to authenticate the conversation.",
+      "No, because the sister's testimony could aid in establishing a timeline of events.",
+      "No, because telephone conversations do not need to be authenticated, because there is a presumption that the person talking is the same person who owns the phone number.",
+      "Yes, because the sister cannot provide a reliable account due to her emotional state.",
+      "No, because there was sufficient circumstantial evidence to make a reasonable conclusion that the man she talked to was her sister's fianc\u00c3\u00a9.",
+      "No, because the defendant did not deny having the conversation with the sister."
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "law"
+  },
+  {
+    "question": "A state education agency, following all statutory requirements, obtained a parcel of land through eminent domain. The landowner accepted the award of fair market value and did not appeal. For the next 15 years, the agency held the property but did not implement an educational use for it. In year 16, the agency abandoned the intended education use and sold it at a properly advertised auction under state law. The original landowner appealed, arguing that the agency only took a fee simple determinable and when it ceased its intended educational use, superior fee simple title reverted back to the original owner. Will the appellate court likely rule that the landowner can assert rights to stop the attempted transfer?",
+    "options": [
+      "Yes, eminent domain is restricted to taking property that is urgently needed for a public use and the failure to use it for that purpose defeated fee simple ownership in the agency.",
+      "Yes, because every eminent domain taking implies a fee simple determinable aspect to the governmental acquisition.",
+      "No, because the landowner accepted the fair market value and did not object to the transfer within the statutory period.",
+      "Yes, because the state agency did not fulfill its statutory obligations by failing to use the land for educational purposes.",
+      "Yes, because the landowner can always assert rights to land taken through eminent domain if the purpose is not fulfilled.",
+      "Yes, because the agency did not use the land for the purpose stated in the eminent domain proceedings within a reasonable time frame.",
+      "No, because the original transfer was legally conducted and the landowner received fair market value, thereby allowing a presumption of fee simple title in the agency.",
+      "No, because the original landowner forfeited all rights to the property once it was sold at the auction.",
+      "No, because the state also acquired fee simple title by adverse possession after 11 continuous, uninterrupted years of possession."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "law"
+  },
+  {
+    "question": "Consider Convolutional Neural Network D2 which takes input images of size 32x32 with 1 colour channels. The first layer of D2 uses 4 filters of size 5x5, a stride of 2, and zero-padding of width 1. Consider CNN D2 which takes input images of size 32x32 with 1 colour channels. The first layer of D2 uses 4 filters of size 5x5, a stride of 2, and zero-padding of width 1. What would be the total size of the flattened output vector from each filter?",
+    "options": [
+      "35",
+      "50",
+      "28",
+      "40",
+      "20",
+      "60",
+      "15",
+      "45",
+      "25",
+      "30"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "computer science"
+  },
+  {
+    "question": "As of 2019, unsafe water is responsible for about how many deaths each year?",
+    "options": [
+      "5 million",
+      "9 million",
+      "6.4 million",
+      "500,000",
+      "1.2 million",
+      "7.2 million",
+      "2.4 million",
+      "800,000",
+      "4.8 million",
+      "3.6 million"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "other"
+  },
+  {
+    "question": "Markings found on the mud-bricks of Huaca del Sol are probably:",
+    "options": [
+      "instructions for the builders written there by the engineers.",
+      "random scratches and not a meaningful script or written language.",
+      "intended to identify the local group that had produced them.",
+      "simple arithmetic performed by carpenters on the building site."
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "history"
+  },
+  {
+    "question": "Mr. Bancroft of the Second National Bank approved 3 loans today. The first one was to Ms. Atlas for $1,800 at 6% for a period of 60 days. The second one was to Mr. Johnson for $2,400 at 5% for 3 years. The third one was to Mr. Breakman for $7,000 at 6(1 / 2) % for 4 years. How much interest will each of them have to pay?",
+    "options": [
+      "Ms. Atlas: $360, Mr. Johnson: $1,820, Mr. Breakman: $18",
+      "Ms. Atlas: $21, Mr. Johnson: $420, Mr. Breakman: $2,310",
+      "Ms. Atlas: $45, Mr. Johnson: $300, Mr. Breakman: $1,610",
+      "Ms. Atlas: $1,820, Mr. Johnson: $18, Mr. Breakman: $360",
+      "Ms. Atlas: $1,800, Mr. Johnson: $2,400, Mr. Breakman: $7,000",
+      "Ms. Atlas: $30, Mr. Johnson: $720, Mr. Breakman: $1,540",
+      "Ms. Atlas: $54, Mr. Johnson: $120, Mr. Breakman: $2,100",
+      "Ms. Atlas: $108, Mr. Johnson: $480, Mr. Breakman: $4,200",
+      "Ms. Atlas: $18, Mr. Johnson: $360, Mr. Breakman: $1,820",
+      "Ms. Atlas: $15, Mr. Johnson: $600, Mr. Breakman: $1,960"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "business"
+  },
+  {
+    "question": "Which of the changes below following the start codon in an mRNA would most likely have the greatest deleterious effect?",
+    "options": [
+      "a deletion of a nucleotide triplet",
+      "a deletion of a nucleotide doublet",
+      "a multiple nucleotide substitution in the first, second, and third codon positions",
+      "a single nucleotide insertion after the first codon position",
+      "a single nucleotide substitution of the nucleotide occupying the first codon position",
+      "a double nucleotide substitution in the first and second codon positions",
+      "a deletion of a single nucleotide",
+      "a single nucleotide substitution of the nucleotide occupying the third codon position",
+      "a deletion of a quadruplet of nucleotides",
+      "a single nucleotide substitution of the nucleotide occupying the second codon position"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "biology"
+  },
+  {
+    "question": "Which of the following illustrates why most people can detect the difference between Coke and Pepsi most of the time?",
+    "options": [
+      "Depth perception",
+      "Sensory adaptation",
+      "Subliminal perception",
+      "Perceptual constancy",
+      "Gestalt principles",
+      "Absolute threshold",
+      "Signal detection theory",
+      "Divided attention",
+      "Selective attention",
+      "Difference threshold"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "psychology"
+  },
+  {
+    "question": "What is the amount of work required a) to freeze 100g of water at 0\u00b0C when the temperature of the surroundings is 25\u00b0C? b) to withdraw the same amount of heat from a body at 10^-5\u00b0K when the surroundings is 1\u00b0K? Assume perfect thermodynamic efficiency.",
+    "options": [
+      "a) 3.07 kJ, b) 10^5 kJ",
+      "a) 6.01 kJ, b) 66.5 \u00d7 10^5 kJ",
+      "a) 33.6 kJ, b) 10^4 kJ",
+      "a) 8.34 kJ, b) 2.07 \u00d7 10^5 kJ",
+      "a) 3.07 kJ, b) 33.6 \u00d7 10^5 kJ",
+      "a) 20.92 kJ, b) 8.31 \u00d7 10^5 kJ",
+      "a) 50 kJ, b) 5 \u00d7 10^5 kJ",
+      "a) 5.55 kJ, b) 12.34 \u00d7 10^5 kJ",
+      "a) 10.92 kJ, b) 33.6 \u00d7 10^5 kJ",
+      "a) 33.6 kJ, b) 3.07 \u00d7 10^5 kJ"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "chemistry"
+  },
+  {
+    "question": "Write the necessary statement function(s) to compute the area of a triangle, given 3 sides. Use Hero's formula.",
+    "options": [
+      "S(A,B,C) = SQRT((A + B + C) / 2), AREA(A,B,C,X) = X*(X-A)*(X-B)*(X-C)",
+      "S(A,B,C) = (A + B + C) / 2, AREA(A,B,C,X) = SQRT(X*(X+A)*(X+B)*(X+C))",
+      "S(A,B,C) = (A + B + C), AREA(A,B,C,X) = SQRT((X-A)*(X-B)*(X-C))",
+      "S(A,B,C) = (A + B - C) / 2, AREA(A,B,C,X) = SQRT(X*(X-A)*(X-B)*(X-C))",
+      "S(A,B,C) = (A^2 + B^2 + C^2) / 2, AREA(A,B,C,X) = SQRT(X*(X-A)*(X-B)*(X-C))",
+      "S(A,B,C) = 0.5 * (A + B + C), AREA(A,B,C,X) = SQRT(X*(X-A)*(X-B)*(X-C))",
+      "AREA(A,B,C) = A*B*C",
+      "S(A,B,C) = (A + B + C) / 3, AREA(A,B,C,X) = SQRT(X*(X-A)*(X-B)*(X-C))",
+      "S(A,B,C) = (A + B + C) / 2, AREA(A,B,C,X) = X / ((X-A)*(X-B)*(X-C))",
+      "S(A,B,C) = A + B + C, AREA(A,B,C,X) = X*(X-A)*(X-B)*(X-C)"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "computer science"
+  },
+  {
+    "question": "What is a psychosomatic disorder? How is it induced? Give some examples.",
+    "options": [
+      "A psychosomatic disorder is a type of illness where symptoms are deliberately produced or feigned for personal gain.",
+      "A psychosomatic disorder is a condition where psychological issues manifest solely as cognitive impairments, such as memory loss or lack of concentration.",
+      "A psychosomatic disorder is a term for any chronic disorder without recognizable symptoms but with psychological origins.",
+      "A psychosomatic disorder is a disease that can be cured by psychological treatment.",
+      "A psychosomatic disorder is a bodily disturbance which is induced or aggravated by a psychological stress. Examples include peptic ulcers, high blood pressure, asthma, dermatitis, and obesity.",
+      "A psychosomatic disorder is a physical condition caused solely by environmental factors with no psychological involvement. Examples include allergies, colds, and infections.",
+      "A psychosomatic disorder is a mental disorder caused by physical illness.",
+      "A psychosomatic disorder is a health problem that occurs spontaneously, without any connection to stress or psychological factors. Examples include broken bones, congenital heart defects, and type I diabetes.",
+      "A psychosomatic disorder is a mental illness that manifests exclusively through emotional disturbances, such as anxiety or depression.",
+      "A psychosomatic disorder is a physical illness that has no known cause."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "psychology"
+  },
+  {
+    "question": "Mrs. Valdez pays a property tax of 2.432 percent on her home. In addition, a collection fee of 1% of the tax is charged. If the total charge on her home was $70.62, what is its assessed valuation?",
+    "options": [
+      "$3,000",
+      "$3,150",
+      "$3,250",
+      "$3,500",
+      "$2,875",
+      "$2,500",
+      "$2,750",
+      "$2,600",
+      "$2,950",
+      "$3,100"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "business"
+  },
+  {
+    "question": "Which of the following pairs of 8-bit, two's-complement numbers will result in overflow when the members of the pairs are added?",
+    "options": [
+      "11110000, 00001111",
+      "01111111, 10000000",
+      "00000001, 10000000",
+      "10000001, 10101010",
+      "11111111, 00000001",
+      "11111111, 10000001",
+      "00000000, 10000000",
+      "10000001, 00000001",
+      "10101010, 11111111"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "computer science"
+  },
+  {
+    "question": "Calculate the standard potential of the $\\mathrm{Ce}^{4+} / \\mathrm{Ce}$ couple from the values for the $\\mathrm{Ce}^{3+} / \\mathrm{Ce}$ and $\\mathrm{Ce}^{4+} / \\mathrm{Ce}^{3+}$ couples.\n",
+    "options": [
+      "-1.83 $\\mathrm{V}$",
+      "-1.72 $\\mathrm{V}$",
+      "-1.46 $\\mathrm{V}$",
+      "-1.56 $\\mathrm{V}$",
+      "-1.39 $\\mathrm{V}$",
+      "-1.21 $\\mathrm{V}$",
+      "-1.28 $\\mathrm{V}$",
+      "-1.34 $\\mathrm{V}$",
+      "-1.61 $\\mathrm{V}$",
+      "-1.09 $\\mathrm{V}$"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "chemistry"
+  },
+  {
+    "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The volume of a certain liquid varies with temperature as\n$$\nV=V^{\\prime}\\left\\{0.75+3.9 \\times 10^{-4}(T / \\mathrm{K})+1.48 \\times 10^{-6}(T / \\mathrm{K})^2\\right\\}\n$$\nwhere $V^{\\prime}$ is its volume at $300 \\mathrm{~K}$. Calculate its expansion coefficient, $\\alpha$, at $320 \\mathrm{~K}$.",
+    "options": [
+      "$1.50 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.19 \\times 10^{-3}$$\\mathrm{~K}^{-1}$",
+      "$1.15 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.31 \\times 10^{-3}$$\\mathrm{~K}^{-1}$",
+      "$1.33 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.05 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.27 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.22 \\times 10^{-3}$$\\mathrm{~K}^{-1}$",
+      "$1.38 \\times 10^{-3}\\mathrm{~K}^{-1}$",
+      "$1.45 \\times 10^{-3}$$\\mathrm{~K}^{-1}$"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "chemistry"
+  },
+  {
+    "question": "500 g of lead shot at a temperature of 100\u00b0 C are poured into a hole in a large block of ice. If the specific heat of lead is .03, how much ice is melted?",
+    "options": [
+      "12.5 g",
+      "18.75 g",
+      "30 g",
+      "40 g",
+      "15 g",
+      "10 g",
+      "25 g",
+      "20 g",
+      "35 g",
+      "22 g"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "physics"
+  },
+  {
+    "question": "A circus operates in a rural part of the county. It is the circus's practice to finish each day's entertainment by discharging a so-called aerial bomb into the sky. After exploding, the aerial bomb emits a spectacular rainbow fireworks display that is seen for miles around. One afternoon, a 10-year-old boy and a few friends went to the fairgrounds to see the circus. After paying their admission, they were about to enter the \"big top\" when the boy came upon an aerial bomb lying on the ground. Ignorant of what the object really was, but in an exploratory mood, the boy applied a match to the fuse of the fireworks device. It exploded and seriously injured the boy. After the accident, and before the parents of the boy had retained a lawyer, the adjuster for the circus's insurance carrier contacted the parents several times, trying to negotiate a settlement of their claim against the circus. On each occasion, the adjuster told the parents there was no need for them to hire an attorney because the applicable civil code did not provide for recovery in such a situation. The adjuster was aware that this information was blatantly false. He also warned the parents that unless they accepted his offered settlement of $5,000, they would receive nothing. For over a month, the adjuster continued to harass the parents. Outraged by the adjuster's actions, the parents sought the advice of a neighbor who recommended that they consult an attorney. The parents went ahead and retained a lawyer who subsequently negotiated a $250,000 settlement with the adjuster's insurance company for the claims relating to the boy's injury from the aerial bomb. If the parents assert a claim against the adjuster to recover damages for infliction of emotional distress, they will",
+    "options": [
+      "not recover, because the adjuster's actions were part of his job duties.",
+      "recover, because the adjuster's actions constituted harassment.",
+      "not recover, because the parents took the advice of a neighbor and consulted an attorney.",
+      "not recover, because the parents did not suffer emotional distress that was severe.",
+      "not recover, because the parents eventually received a $250,000 settlement from the adjuster's insurance company.",
+      "recover, because the adjuster provided false information to the parents.",
+      "not recover, because the adjuster's actions did not directly cause the boy's injury."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "law"
+  },
+  {
+    "question": "Consider Convolutional Neural Network D2 which takes input images of size 32x32 with 1 colour channels. The first layer of D2 uses 4 filters of size 5x5, a stride of 2, and zero-padding of width 1. Consider CNN D2 which takes input images of size 32x32 with 1 colour channels. The first layer of D2 uses 4 filters of size 5x5, a stride of 2, and zero-padding of width 1. What is the total number of weights defined for the entire activation output of this first layer? (ie. If you flattened all filters and channels into a single vector)",
+    "options": [
+      "1200",
+      "500",
+      "1300",
+      "1040",
+      "1100",
+      "600",
+      "900",
+      "1000",
+      "700",
+      "800"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "computer science"
+  },
+  {
+    "question": "A 35-year-old female develops nausea and vomiting after she underwent a cholecystectomy for protracted ileus. Her body mass index was 23\u00a0kg/m2\u00a0before surgery, and, except for the cholecystitis, she was in good health. The patient remains unable to eat 6\u00a0days after surgery. Which of the following forms of nutritional support is most appropriate for this patient? ",
+    "options": [
+      "feeding through a gastrostomy tube",
+      "central hyperalimentation",
+      "oral fat-free modular diet",
+      "intravenous dextrose solution",
+      "feeding through a nasogastric feeding tube",
+      "oral protein-rich diet",
+      "oral carbohydrate-rich diet",
+      "intravenous saline solution",
+      "feeding through a jejunostomy tube",
+      "peripheral hyperalimentation"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "health"
+  },
+  {
+    "question": "An open-circuit test on a 150-kVa 2400/240-V 60-Hz transformeryielded the following data, corrected for instrumentlosses: Volts Amperes Watts 240 16.75 580 The following data were obtained in a short-circuit test of the transformer, with its low-voltage winding short-circuited. Volts Amperes Watts 63.0 62.5 1660 Calculate the efficiency of the transformer (a) at rated load 0.80 power factor and (b) at one-half rated load 0.60 power factor.",
+    "options": [
+      "0.9940, 0.9650",
+      "0.9882, 0.9600",
+      "0.9650, 0.9900",
+      "0.9817, 0.9784",
+      "0.9765, 0.9836",
+      "0.9720, 0.9805",
+      "0.9800, 0.9750",
+      "0.9901, 0.9735",
+      "0.9756, 0.9821",
+      "0.9850, 0.9700"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "engineering"
+  },
+  {
+    "question": "Describe the charges required to obtain the field D= {r + (1 / r^2)}U (r_0 - r)1_r",
+    "options": [
+      "No uniform charge density, a surface charge of - [r_0 + (1/r_0)] on the sphere of radius r = r_0, and an additional point charge of 4\u03c0 coulombs at the origin.",
+      "A uniform charge density of 2 C/m^3, a surface charge of - [r_0 + (1/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of 2\u03c0 coulombs at the origin.",
+      "A uniform charge density of 4 C/m^3, no surface charge on the sphere, and an additional point charge of 4\u03c0 coulombs at the origin.",
+      "A uniform charge density of 3 C/m^3, a surface charge of - [2r_0 + (1/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of \u03c0 coulombs at the origin.",
+      "A uniform charge density of 3 C/m^3, a surface charge of - [r_0 + (1/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of 2\u03c0 coulombs at the origin.",
+      "A uniform charge density of 2.5 C/m^3, a surface charge of - [r_0 + (1/r_0)] on the sphere of radius r = r_0, and an additional point charge of 5\u03c0 coulombs at the origin.",
+      "A uniform charge density of 2 C/m^3, a surface charge of - [r_0 + (1/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of 4\u03c0 coulombs at the origin.",
+      "A uniform charge density of 3 C/m^3, a surface charge of - [r_0 + (1/r_0^3)] on the sphere of radius r = r_0, and an additional point charge of 2\u03c0 coulombs at the origin.",
+      "A uniform charge density of 1 C/m^3, a surface charge of - [r_0 + (2/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of 3\u03c0 coulombs at the origin.",
+      "A uniform charge density of 3 C/m^3, a surface charge of - [r_0 + (1/r_0^2)] on the sphere of radius r = r_0, and an additional point charge of 4\u03c0 coulombs at the origin."
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "engineering"
+  },
+  {
+    "question": "Spring scales are used to measure the net force applied to an object; a sonic motion detector is used to measure the object\u2019s resulting acceleration. A graph is constructed with the net force on the vertical axis and the acceleration on the horizontal axis. Which of the following quantities is directly measured using the slope of this graph?",
+    "options": [
+      "Inertial mass",
+      "Gravitational mass",
+      "Kinetic energy",
+      "Velocity",
+      "Weight",
+      "Friction",
+      "Force",
+      "Momentum",
+      "Distance",
+      "Speed"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "physics"
+  },
+  {
+    "question": "How is an ARRAY declared inPL/I? Explain using examples.",
+    "options": [
+      "An array in PL/I is declared using the format: DATA ATTRIBUTES DCL ARRAY (DIMENSION ATTRIBUTES) NAME;",
+      "An array in PL/I is declared using the format: ARRAY NAME DCL (DIMENSION ATTRIBUTES) DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: DCL DATA ATTRIBUTES ARRAY NAME (DIMENSION ATTRIBUTES);",
+      "An array in PL/I is declared using the format: ARRAY (DIMENSION ATTRIBUTES) NAME DCL DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: ARRAY DCL NAME (DIMENSION ATTRIBUTES) DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: (DIMENSION ATTRIBUTES) DCL ARRAY NAME DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: NAME DCL DATA ATTRIBUTES ARRAY (DIMENSION ATTRIBUTES);",
+      "An array in PL/I is declared using the format: DCL (DIMENSION ATTRIBUTES) ARRAY NAME DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: NAME ARRAY DCL (DIMENSION ATTRIBUTES) DATA ATTRIBUTES;",
+      "An array in PL/I is declared using the format: DCL ARRAY NAME (DIMENSION ATTRIBUTES) DATA ATTRIBUTES;"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "computer science"
+  },
+  {
+    "question": "What is the economic definition of \\textquotedblleftlabor\\textquotedblright ?",
+    "options": [
+      "Activities related to hiring and managing employees only",
+      "The capital invested in businesses for production purposes",
+      "The use of machinery and technology exclusively in producing goods or services",
+      "Only physical work",
+      "Only mental work",
+      "All human abilities or talents used in the production of goods or services.",
+      "The process of developing and executing business strategies without direct human involvement",
+      "Work by entrepreneurs only",
+      "The exchange of services between businesses without involving human effort",
+      "The natural resources exploited for production"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "economics"
+  },
+  {
+    "question": "The daily protein intake of a typical American diet consists of meat, dairy products and eggs. Its average net protein utilization (NPU) is 70. If the daily protein requirement of the body is 0.3 g per pound of body weight, what is the actual protein requirement for an average American?",
+    "options": [
+      "100 g of protein per day",
+      "70 g of protein per day",
+      "64.5 g of protein per day",
+      "0.43 g of protein per day",
+      "35 g of protein per day",
+      "200 g of protein per day",
+      "80 g of protein per day",
+      "150 g of protein per day",
+      "120 g of protein per day",
+      "50 g of protein per day"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "chemistry"
+  },
+  {
+    "question": "The second cosmic velocity (or escape velocity) is the speed required by an object to escape the gravitational field of a celestial body with mass M and radius R. Which formula correctly calculates this velocity? (G: gravitational constant)",
+    "options": [
+      "v = 2sqrt(GM/R)",
+      "v = sqrt(GM/2R)",
+      "v = sqrt(2GM/R)",
+      "v = sqrt(GM*R)",
+      "v = sqrt(GM/R)",
+      "v = sqrt(GM)",
+      "v = 2GM/R",
+      "v = sqrt(GM/2)",
+      "v = 2sqrt(2GM/R)",
+      "v = sqrt(2GM)"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "physics"
+  },
+  {
+    "question": "Which of the following describes the fallacy of appeal to popularity?",
+    "options": [
+      "saying someone should do something because he or she dislikes someone else",
+      "saying someone should do something to be better liked by others",
+      "saying someone should do something because it will make him or her feel good",
+      "saying someone should accept an idea because of the source of the idea"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "philosophy"
+  },
+  {
+    "question": "A football player was the star fulllack for the local college football team. After missing two practices, the football player was dropped from the team by the head football coach. Following his dismissal, the football player met with the coach and asked if he could rejoin the team. The coach said that the football player was despised by the other players and under no circumstances could he return to the team. As the football player was leaving the coach's office, feeling very dejected, the coach then said to him, \"Hope you decide to transfer, because everybody hates your guts around here. \"Later that same evening, the football player wrote a suicide note in which he stated, \"The coach is responsible for my despondency. If I can't play football, I don't want to live. \" After swallowing a bottle of Quaalude barbiturates, the football player fell unconscious in his dormitory room. Moments later, the football player's roommate entered the room and saw his limp body on the floor. The roommate read the suicide note and then attempted to administer aid. Failing to revive him, the roommate picked up the football player and carried him to the college's first aid center. The football player received prompt medical attention and soon recovered from his drug overdose. If the football player asserts a claim against the coach based on intentional infliction of emotional distress, the football player will most likely",
+    "options": [
+      "not prevail, because the coach had the right to express his opinion.",
+      "prevail, because the coach's remarks led directly to the football player's emotional distress and subsequent suicide attempt.",
+      "prevail, because the coach intended to cause him to suffer emotional distress.",
+      "not prevail, because the football player's drug overdose resulted from his own voluntary act.",
+      "prevail, because the coach's remarks constituted bullying behavior.",
+      "prevail, because the coach's remarks were intended to inflict emotional distress and resulted in the football player's suicide attempt.",
+      "not prevail, because the coach acted reasonably under the circumstances, since everyone on the team hated the football player.",
+      "prevail, because the coach's remark did, in fact, cause the football player to suffer emotional distress.",
+      "not prevail, because the coach's remarks do not meet the legal standard for intentional infliction of emotional distress.",
+      "not prevail, because the football player's overdose was an unforeseen consequence of the coach's remarks."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "law"
+  },
+  {
+    "question": "What is the name of the lithic technology seen in the Arctic and consisting of wedge-shaped cores, micro-blades, bifacial knives, and burins?",
+    "options": [
+      "Ahrensburg Complex",
+      "Solutrean Complex",
+      "Aurignacian Complex",
+      "Nenana Complex",
+      "Gravettian Complex",
+      "Clovis Complex",
+      "Denali Complex",
+      "Mousterian Complex",
+      "Magdalenian Complex",
+      "Folsom Complex"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "history"
+  },
+  {
+    "question": "If the economy is experiencing a recession how will a plan to decrease taxes for consumers and increase spending on government purchases affect real gross domestic product (GDP) and the price level?",
+    "options": [
+      "real GDP remains the same and the price level falls.",
+      "real GDP rises and the price level remains the same.",
+      "real GDP rises and the price level rises.",
+      "the effects on real GDP and the price level are uncertain.",
+      "real GDP falls and the price level remains the same.",
+      "real GDP falls and the price level rises.",
+      "real GDP and the price level both remain the same.",
+      "real GDP rises and the price level falls.",
+      "real GDP remains the same and the price level rises.",
+      "real GDP falls and the price level falls."
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "economics"
+  },
+  {
+    "question": "Consider the initial value problem\n$$\ny^{\\prime}=t y(4-y) / 3, \\quad y(0)=y_0\n$$\nSuppose that $y_0=0.5$. Find the time $T$ at which the solution first reaches the value 3.98.",
+    "options": [
+      "3.01012",
+      "4.65218",
+      "5.12345",
+      "2.54678",
+      "3.87540",
+      "4.20456",
+      "3.29527",
+      "6.78901",
+      "2.75984",
+      "2.98732"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "math"
+  },
+  {
+    "question": "Considering 'offensive' and 'defensive realism', which of these statements is not correct?",
+    "options": [
+      "Both offensive and defensive realism agree that states should avoid cooperation to achieve security.",
+      "Offensive realism regards cooperation as the way in which states can achieve security.",
+      "Offensive realism argues that states should avoid power and competition to achieve security.",
+      "Both defensive realism and offensive realism regard power and competition as a means by which security can be achieved for the state.",
+      "Defensive realism theorizes that states will pursue hegemony where possible.",
+      "Both offensive and defensive realism agree that states should avoid power and competition to achieve security."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "other"
+  },
+  {
+    "question": "A potato peeling solution was found to be 2.56 M inNaOH (formula weight = 40.0 g/mole) at the end of the day. To operate, the solution must be at least 10 %NaOHby weight (100 gNaOHper 1000 g of solution) . What weight percent corresponds to 2.56 M? The density of a 2.56 M solution of NaOHis about 1.10 g/ml.",
+    "options": [
+      "13.8 % by weight",
+      "11.2 % by weight",
+      "5.0 % by weight",
+      "6.5 % by weight",
+      "8.5 % by weight",
+      "10 % by weight",
+      "14.5 % by weight",
+      "12 % by weight",
+      "7.7 % by weight",
+      "9.3 % by weight"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "chemistry"
+  },
+  {
+    "question": "The _post hoc_ fallacy is",
+    "options": [
+      "arguing that since one event preceded another event the first event must have caused the second event",
+      "drawing a conclusion about a causal relationship when there is no evidence of a causal relationship",
+      "arguing that since two things happened at the same time one must have caused the other",
+      "arguing that a single event caused another when there is no logical connection between them",
+      "drawing a conclusion about a causal relationship based on a single instance",
+      "arguing that an event must have caused another because they are correlated",
+      "arguing that a single event caused another when the cause is really several events",
+      "drawing a conclusion about a causal relationship based on hearsay or anecdotal evidence",
+      "arguing that since two events are unrelated, one cannot have caused the other"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "philosophy"
+  },
+  {
+    "question": "Current legal and ethical standards require that a treatment record be kept for each patient. At the minimum, this treatment record should include",
+    "options": [
+      "Diagnoses; initial findings; dates of service and billing; patient's fantasies and cognitions",
+      "Diagnoses; treatment plan; dates of service and billing; progress in the treatment plan",
+      "Initial findings; treatment plan; dates of service and billings; patient's progress",
+      "initial findings: consent of patient's cognitions, reveries, and fantasies; dares of service and billings patient's progress",
+      "initial findings; dates of service and billing; patient's progress",
+      "diagnoses; initial findings; treatment plan; dates of service and billing; progress in the treatment plan",
+      "Diagnoses; initial findings; treatment plan; consent of patient's cognitions, reveries, and fantasies; dates of service and billings",
+      "diagnoses; initial findings; content of patient's cognitions, reveries, and fantasies; dates of service and billing; progress in the treatment plan",
+      "Diagnoses; initial findings; content of patient's cognitions, reveries, and fantasies; progress in the treatment plan",
+      "Initial findings; consent of patient's cognitions, reveries, and fantasies; dates of service and billings; patient's progress"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "psychology"
+  },
+  {
+    "question": "Formation of a solution can often be visualized as a three-step process. Step 1. Solvent molecules are separated from each other to make space for the solute. Step 2. Solute molecules are separated so they fit into spaces in the solvent. Step 3. Separated solute and solvent are brought together, filling in the spaces. Which of the following statements about the energy involved in the above is correct?",
+    "options": [
+      "Step 1 is endothermic, steps 2 and 3 are exothermic.",
+      "All three steps are endothermic.",
+      "Steps 1 and 3 are exothermic, and step 2 is endothermic.",
+      "All three steps are exothermic.",
+      "Steps 1 and 3 are endothermic, and step 2 is exothermic.",
+      "Step 1 is exothermic, steps 2 and 3 are endothermic.",
+      "Step 3 is exothermic, steps 1 and 2 are neither exothermic nor endothermic.",
+      "Step 1 and 2 are exothermic, step 3 is neither exothermic nor endothermic.",
+      "Steps 1 and 2 are exothermic, and step 3 is endothermic.",
+      "Steps 1 and 2 are endothermic, and step 3 is exothermic."
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "chemistry"
+  },
+  {
+    "question": "A heat pump with a coefficient of performance given by COP = - (q_1 / w) = [T_1 / (T_2 - T_1)] = 7.0 is used to pump an amount of heat q_1 at a temperature T_1, from the cold outdoors to the interior of a house at a temperature T_2. Calculate (q_2 / w), the ratio of the heat liberated at the higher temperature T_2 to the work done.",
+    "options": [
+      "6.0",
+      "11.0",
+      "8.5",
+      "10.0",
+      "5.0",
+      "9.0",
+      "7.5",
+      "8.0",
+      "7.0",
+      "4.0"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "chemistry"
+  },
+  {
+    "question": "In the card game blackjack how much are a queen and a king worth-together?",
+    "options": [
+      "22",
+      "19",
+      "25",
+      "16",
+      "15",
+      "18",
+      "20",
+      "17",
+      "21",
+      "11"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "other"
+  },
+  {
+    "question": "Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?",
+    "options": [
+      "Residuals appear to be negatively autocorrelated",
+      "There is a strong linear relationship between the variables",
+      "The regression model is incorrectly specified",
+      "The residuals are heteroscedastic",
+      "Residuals appear not to be autocorrelated",
+      "The residuals are homoscedastic",
+      "There is no relationship between the variables",
+      "Residuals appear to be positively autocorrelated",
+      "Residuals appear to be perfectly autocorrelated",
+      "The test result is inconclusive"
+    ],
+    "answer_index": 9,
+    "answer_letter": "J",
+    "category": "economics"
+  },
+  {
+    "question": "Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:",
+    "options": [
+      "strong and weak duties.",
+      "personal and public duties.",
+      "conscious and unconscious obligations.",
+      "absolute and relative obligations.",
+      "positive and negative duties.",
+      "moral and ethical obligations.",
+      "direct and indirect duties.",
+      "legal and illegal obligations.",
+      "perfect and imperfect obligations.",
+      "urgent and non-urgent obligations."
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "philosophy"
+  },
+  {
+    "question": "What are the real eigenvalues of the matrix [[3, -2, 5], [1, 0, 7], [0, 0, 2]]?",
+    "options": [
+      "[1, 2]",
+      "[3, -2]",
+      "[2, 5]",
+      "[3, 7]",
+      "[1, 3]",
+      "[3, 2]",
+      "[-2, 5]",
+      "[1, 7]",
+      "[6, 2]",
+      "[1, 6]"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "math"
+  },
+  {
+    "question": "The normal boiling point of benzene is 80.10\u00b0C. When 1 mole of a solute is dissolved in 1000 g of benzene, the boiling point of the resulting solution is 82.73\u00b0C. When 1.2 g of elemental sulfur is dissolved in 50 g of benzene, the boiling point of the solution is 80.36\u00b0C. What is the molecular weight of sulfur?",
+    "options": [
+      "180 (g / mole)",
+      "420 (g / mole)",
+      "600 (g / mole)",
+      "300 (g / mole)",
+      "240 (g / mole)",
+      "480 (g / mole)",
+      "90 (g / mole)",
+      "150 (g / mole)",
+      "120 (g / mole)",
+      "360 (g / mole)"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "chemistry"
+  },
+  {
+    "question": "A copper coil has a resistance of 100 ohms at 20\u00b0C. What is its resistance at 50\u00b0C if the temperature coefficient of resistivity for copper is 0.0038 ohm per ohm per degree centigrade?",
+    "options": [
+      "120 ohms",
+      "125 ohms",
+      "100 ohms",
+      "105 ohms",
+      "140 ohms",
+      "150 ohms",
+      "130 ohms",
+      "111 ohms",
+      "90 ohms",
+      "115 ohms"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "physics"
+  },
+  {
+    "question": "A manufacturer sells his merchandise at 135 percent of the cost. Find his percent of gain.",
+    "options": [
+      "35%",
+      "50%",
+      "55%",
+      "30%",
+      "60%",
+      "15%",
+      "25%",
+      "20%",
+      "45%",
+      "40%"
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "business"
+  },
+  {
+    "question": "A motorcycle collector and his friend had known each other for years. The collector sent a letter to the friend that said, \"I am willing to sell you my oldest motorcycle for $4,000.\" The friend sent the collector an email saying, \"I accept your offer.\" The collector owned three motorcycles: a 1985 model, a 1987 model, and a 1992 model. The friend did not know about the 1985 model, which was the one the collector intended to sell. The collector was unaware that the friend intended to buy the 1987 model. When the collector tendered the 1985 model, the friend refused to accept it. Is the friend likely to prevail in a breach of contract suit against the collector?",
+    "options": [
+      "No, because it was the friend's responsibility to know the details about the collector's motorcycles before agreeing to purchase.",
+      "No, because by not inquiring further about the meaning of the phrase \"oldest motorcycle,\" the friend assumed the risk of being mistaken.",
+      "No, the friend won't prevail as he misunderstood the term \"oldest motorcycle\".",
+      "Yes, so long as a reasonable person in the friend's position would have considered the letter as referring to the 1987 model.",
+      "No, because neither the friend nor the collector had reason to know of the other's interpretation of the words \"oldest motorcycle.\"",
+      "Yes, the friend will prevail as the collector falsely advertised the motorcycle model.",
+      "No, because the friend should have asked for clarification about which model was being sold before agreeing to the purchase.",
+      "Yes, because the friend could have reasonably assumed that the \"oldest motorcycle\" referred to the 1987 model, given his knowledge.",
+      "Yes, because the friend had no reason to know of the collector's meaning and the collector could have avoided the confusion by more careful drafting.",
+      "Yes, because the collector should have clarified which model he was referring to in the letter."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "law"
+  },
+  {
+    "question": "All other things being equal, which of the following persons is likely to live the longest?",
+    "options": [
+      "A black woman",
+      "A Hispanic man",
+      "A white woman",
+      "An Asian man",
+      "A white man",
+      "A Native American man",
+      "A Hispanic woman",
+      "A Native American woman",
+      "A black man",
+      "An Asian woman"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "health"
+  },
+  {
+    "question": "Explain what is meant by the anxiety theory ofneureosis.",
+    "options": [
+      "Neurotic symptoms are a result of childhood trauma.",
+      "Neurotic symptoms are the body's natural response to changes in the weather.",
+      "Neurotic symptoms are caused by physical illness.",
+      "Neurotic symptoms are solely a result of genetic predisposition.",
+      "Neurotic symptoms are caused by a lack of education and awareness about mental health.",
+      "Neurotic symptoms are a result of inner unresolved anxiety which stirs up conflict within the individual.",
+      "Neurotic symptoms arise from the consumption of certain food additives.",
+      "Neurotic symptoms are a result of external stressors.",
+      "Neurotic symptoms are a direct consequence of technological advancements and their impact on daily life.",
+      "Neurotic symptoms are a manifestation of collective societal pressures."
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "psychology"
+  },
+  {
+    "question": "In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?",
+    "options": [
+      "a bottle of tequila",
+      "his car keys",
+      "a shaker of salt",
+      "a beach chair",
+      "his sunglasses",
+      "a lime",
+      "a bottle of rum",
+      "his lost flip-flops",
+      "a waitress",
+      "the bartender"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "other"
+  },
+  {
+    "question": "A clown is juggling four balls simultaneously. Students use a video tape to determine that it takes the clown $0.9 \\mathrm{~s}$ to cycle each ball through his hands (including catching, transferring, and throwing) and to be ready to catch the next ball. What is the minimum vertical speed the clown must throw up each ball?\n",
+    "options": [
+      "8.0 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "10.0 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "11.5 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "14.5 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "13.2$\\mathrm{~m} \\cdot \\mathrm{s}^{-1}$ ",
+      "9.8 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "12.5 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "18.3 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "15.7 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$",
+      "16.8 $\\mathrm{m} \\cdot \\mathrm{s}^{-1}$"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "physics"
+  },
+  {
+    "question": "An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be",
+    "options": [
+      "2121.32 A.",
+      "6000 A.",
+      "2000 A.",
+      "7000 A.",
+      "5000 A.",
+      "3500 A.",
+      "1500 A.",
+      "4242.64 A.",
+      "3000 A.",
+      "2500 A."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "engineering"
+  },
+  {
+    "question": "If real GDP per capita grows at a rate of 10 percent a year then we can expect the standard of living to double in",
+    "options": [
+      "8 years.",
+      "9 years.",
+      "6 years.",
+      "12 years.",
+      "5 years.",
+      "11 years.",
+      "7 years.",
+      "13 years.",
+      "10 years.",
+      "15 years."
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "economics"
+  },
+  {
+    "question": "In the blizzard of ' 88 , a rancher was forced to drop hay bales from an airplane to feed her cattle. The plane flew horizontally at $160 \\mathrm{~km} / \\mathrm{hr}$ and dropped the bales from a height of $80 \\mathrm{~m}$ above the flat range. She wanted the bales of hay to land $30 \\mathrm{~m}$ behind the cattle so as to not hit them. How far behind the cattle should she push the bales out of the airplane?",
+    "options": [
+      "120 m",
+      "150 m",
+      "300 $\\mathrm{~m}$",
+      "210$\\mathrm{~m}$ ",
+      "180 $\\mathrm{~m}$",
+      "100 m",
+      "330 m",
+      "240 $\\mathrm{~m}$",
+      "90 m",
+      "270 m"
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "physics"
+  },
+  {
+    "question": "A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PPD skin test. The test was done as part of a routine screening for enrollment in a homeless shelter. Physical examination shows 10 mm of induration at the puncture site; the examination is otherwise normal. The parents tell you they are shocked by this finding since both of their skin tests were nonreactive. They say they were born in this country and tell you that their daughter has always been in good health. She has not had much medical care in the past 2 years but she has been healthy. Until moving into this shelter they had been \"squatters\" in vacant buildings. Which of the following is the most appropriate step at this time?",
+    "options": [
+      "Call her previous physician to obtain more history",
+      "Order a chest x-ray",
+      "Order a test for HIV antibody",
+      "Repeat the PPD skin test"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "health"
+  },
+  {
+    "question": "What is a monopoly?",
+    "options": [
+      "A monopoly is a company that has no control over the market.",
+      "A monopoly is a government-run entity that controls all aspects of a market.",
+      "A monopoly is a business that can set its own prices.",
+      "A monopoly is a firm which is the sole producer of a good.",
+      "A monopoly is a market structure with only two firms competing against each other.",
+      "A monopoly is a company that only sells its products online.",
+      "A monopoly is a term used to describe a market with many sellers offering differentiated products.",
+      "A monopoly is an association of various firms collaborating to set prices and control the market.",
+      "A monopoly is a firm with multiple competitors.",
+      "A monopoly is a large corporation that has many competitors in a fragmented market."
+    ],
+    "answer_index": 3,
+    "answer_letter": "D",
+    "category": "economics"
+  },
+  {
+    "question": "A 47-year-old man is brought to the emergency department 2 hours after the sudden onset of shortness of breath, severe chest pain, and sweating. He has no history of similar symptoms. He has hypertension treated with hydrochlorothiazide. He has smoked one pack of cigarettes daily for 30 years. His pulse is 110/min, respirations are 24/min, and blood pressure is 110/50 mm Hg. A grade 3/6, diastolic blowing murmur is heard over the left sternal border and radiates to the right sternal border. Femoral pulses are decreased bilaterally. An ECG shows left ventricular hypertrophy. Which of the following is the most likely diagnosis? ",
+    "options": [
+      "Angina pectoris",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Esophageal rupture",
+      "Hypertensive crisis",
+      "Thoracic aortic aneurysm",
+      "Aortic stenosis",
+      "Congestive heart failure",
+      "Mitral valve prolapse",
+      "Acute myocardial infarction"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "health"
+  },
+  {
+    "question": "Including the bottom how many sides are on a square-based pyramid?",
+    "options": [
+      "two",
+      "seven",
+      "six",
+      "twelve",
+      "four",
+      "nine",
+      "five",
+      "three",
+      "eight",
+      "ten"
+    ],
+    "answer_index": 6,
+    "answer_letter": "G",
+    "category": "other"
+  },
+  {
+    "question": "The reaction of sodium oxide with hydrochloric acid is describedby the following chemical equation, Na_2O(s) +2HCl(g) \\rightleftharpoons 2NaCl(s) + H_2O(1) Calculate the heat of reaction @ 298\u00b0K using the following data. Data Standard heats of formation NaCl(s)- 98.6 \\pm 0.2 kcal/mole Na_2O(s)- 100.7 \\pm1.2 kcal/mole HCl(g)- 22.0 \\pm 1.0 kcal/mole H_2O(1)- 68.32 \\pm0.01 kcal/mole",
+    "options": [
+      "22.0 \u00b1 1.0 kcal",
+      "- 100.7 \u00b1 1.2 kcal",
+      "- 68.32 \u00b1 0.01 kcal",
+      "120.82 \u00b1 1.81 kcal",
+      "- 55.1 \u00b1 0.6 kcal",
+      "- 85.98 \u00b1 1.3 kcal",
+      "98.6 \u00b1 0.2 kcal",
+      "- 120.82 \u00b1 1.81 kcal",
+      "- 22.0 \u00b1 1.0 kcal",
+      "- 98.6 \u00b1 0.2 kcal"
+    ],
+    "answer_index": 7,
+    "answer_letter": "H",
+    "category": "engineering"
+  },
+  {
+    "question": "A 42-year-old man comes to the physician for a follow-up examination 1 week after he passed a renal calculus. X-ray crystallographic analysis of the calculus showed calcium as the primary cation. Physical examination today shows no abnormalities. A 24-hour collection of urine shows increased calcium excretion. Which of the following is the most appropriate pharmacotherapy?",
+    "options": [
+      "Na+ \u2013K + \u20132Cl\u2212 symport inhibitor",
+      "Alpha-adrenergic blocker",
+      "Carbonic anhydrase inhibitor",
+      "Osmotic diuretic",
+      "Angiotensin-converting enzyme inhibitor",
+      "Na+ \u2013Cl\u2212 symport inhibitor",
+      "Potassium-sparing diuretic",
+      "Beta-adrenergic blocker",
+      "Aldosterone antagonist",
+      "Calcium channel blocker"
+    ],
+    "answer_index": 5,
+    "answer_letter": "F",
+    "category": "health"
+  },
+  {
+    "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+    "options": [
+      "The man and his brother are guilty of conspiracy and attempted murder, and the friend is guilty of criminal conspiracy.",
+      "The man, his brother, and the friend are all guilty of conspiracy and attempted murder.",
+      "The man and his brother have committed criminal conspiracy and attempted murder.",
+      "The friend is guilty of conspiracy and attempted murder, but the man and his brother are not guilty.",
+      "The man and his brother are guilty of conspiracy and attempted murder, but the friend is guilty of nothing.",
+      "The friend is guilty of conspiracy, but not the man and his brother.",
+      "The man and his brother are guilty of conspiracy, while the friend is guilty of attempted murder.",
+      "The man and his brother are guilty of conspiracy but not attempted murder.",
+      "Only the man is guilty of conspiracy and attempted murder, while his brother and the friend are not guilty.",
+      "The man and his brother are guilty of attempted murder, but not conspiracy."
+    ],
+    "answer_index": 0,
+    "answer_letter": "A",
+    "category": "law"
+  },
+  {
+    "question": "Inherent risk and control risk differ from detection risk in which of the following ways?",
+    "options": [
+      "Inherent risk and control risk can be completely eliminated.",
+      "Inherent risk and control risk exist as a result of the auditor\u2019s judgment about materiality.",
+      "Detection risk is a result of the auditor's judgment while inherent risk and control risk are not.",
+      "Inherent risk and control risk are the result of the client's internal control system.",
+      "Inherent risk and control risk exist independently of the audit.",
+      "Inherent risk and control risk are eliminated through the audit process.",
+      "Inherent risk and control risk are controlled by the auditor.",
+      "Inherent risk and control risk are solely determined by the audit.",
+      "Detection risk is controlled by the client while inherent risk and control risk are not.",
+      "Inherent risk and control risk are calculated by the client."
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "other"
+  },
+  {
+    "question": "Calculate, approximately, the relative intensities of the secondary maxima in the single-slitFraunhoferdiffraction pattern.",
+    "options": [
+      "0.035, 0.014, 0.0070",
+      "0.030, 0.012, 0.0060",
+      "0.045, 0.016, 0.0083",
+      "0.060, 0.025, 0.0125",
+      "0.040, 0.015, 0.0075",
+      "0.050, 0.020, 0.010",
+      "0.045, 0.015, 0.0075",
+      "0.042, 0.017, 0.0085",
+      "0.055, 0.022, 0.0110",
+      "0.050, 0.018, 0.0090"
+    ],
+    "answer_index": 2,
+    "answer_letter": "C",
+    "category": "physics"
+  },
+  {
+    "question": "How do cyanobacteria differ from green unicellular algae?",
+    "options": [
+      "Cyanobacteria reduce sulfur compounds.",
+      "Cyanobacteria have no nuclei.",
+      "Green algae cannot reduce nitrogen compounds.",
+      "Green algae cannot photosynthesize.",
+      "Green algae produce cell membranes.",
+      "Green algae have no chlorophyll.",
+      "Cyanobacteria lack cell walls.",
+      "Cyanobacteria can photosynthesize."
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "biology"
+  },
+  {
+    "question": "Which of the following statements is incorrect regarding fatty acid \u00df-oxidation?\n",
+    "options": [
+      "The rate of \u00df-oxidation is regulated by the availability of carbohydrates and the rate of utilisation of \u00df-oxidation products",
+      "Peroxisomes are the site for the degradation of xenobiotics and eicosanoids",
+      "Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products",
+      "The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products",
+      "The major site of fatty acid \u00df-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway"
+    ],
+    "answer_index": 4,
+    "answer_letter": "E",
+    "category": "health"
+  },
+  {
+    "question": "Gary has 72 cows on his farm. He has 6 times as many cows as he has horses. The number sentence below can be used to find the number of horses, h, he has. 72 \u00f7 h = 6 How many horses, h, does Gary have?",
+    "options": [
+      "24 horses",
+      "48 horses",
+      "36 horses",
+      "60 horses",
+      "432 horses",
+      "18 horses",
+      "78 horses",
+      "66 horses",
+      "12 horses",
+      "6 horses"
+    ],
+    "answer_index": 8,
+    "answer_letter": "I",
+    "category": "math"
+  },
+  {
+    "question": "We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",
+    "options": [
+      "Argument from Ignorance",
+      "Affirming the Consequent",
+      "Denying the Antecedent",
+      "Begging the Question"
+    ],
+    "answer_index": 1,
+    "answer_letter": "B",
+    "category": "philosophy"
+  }
+]

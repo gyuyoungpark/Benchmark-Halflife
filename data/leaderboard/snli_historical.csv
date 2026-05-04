@@ -1,0 +1,15 @@
+model,score,release_date,source
+DIIN,88.0,2017-09-01,Gong et al. 2017
+ESIM,88.6,2017-07-01,Chen et al. 2017
+InferSent,84.5,2017-05-01,Conneau et al. 2017
+GPT,89.9,2018-06-01,Radford et al. 2018
+BERT-base,90.7,2018-10-01,Devlin et al. 2018
+BERT-large,91.0,2018-10-01,Devlin et al. 2018
+MT-DNN,91.1,2019-01-01,Liu et al. 2019
+XLNet,91.6,2019-06-01,Yang et al. 2019
+RoBERTa,91.6,2019-07-01,Liu et al. 2019
+ALBERT,91.8,2019-09-01,Lan et al. 2019
+SemBERT,91.9,2020-02-01,Zhang et al. 2020
+DeBERTa,91.7,2020-06-01,He et al. 2020
+InfoBERT,91.8,2020-10-01,Wang et al. 2020
+DeBERTa-v3,92.0,2021-11-01,He et al. 2021
