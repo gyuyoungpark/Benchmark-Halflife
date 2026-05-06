@@ -1,6 +1,6 @@
 # Benchmark Half-Life — Code & Data Supplement
 
-Reproduces all experiments and figures in *"The Discriminative Half-Life of LLM Benchmarks: Diversity, Not Difficulty, Predicts When Evaluations Fail"* (NeurIPS 2026 Evaluations & Datasets track submission).
+Reproduces all experiments and figures in *"The Half-Life of LLM Benchmarks: Discriminative Decay and Early Memorization Signals"* (NeurIPS 2026 Evaluations & Datasets Track submission).
 
 ## Quick Start: Compute Half-Life for Any Benchmark
 
@@ -16,11 +16,9 @@ Input CSV format: `model,score,eval_date` (one row per model evaluation).
 
 ```
 benchmark-halflife/
-├── paper/neurips2026/main.tex     # Main paper (9p main + 9p appendix)
 ├── data/
 │   ├── leaderboard/               # Aggregate leaderboard data
 │   │   ├── *_v2.csv               # Open LLM Leaderboard v2 (3,977 unique models, 24,276 records)
-│   │   ├── v1_scores_full.csv     # v1 scores (3,906 unique models, 18,748 records)
 │   │   └── glue_historical.csv    # GLUE retrospective (14 BERT-era models)
 │   ├── perturbations/             # Item-level paraphrases
 │   │   ├── mmlu_perturbed.json    # 228 items
@@ -58,9 +56,8 @@ benchmark-halflife/
 │   ├── core.py                    # compute_halflife(), fit_decay(), bootstrap_halflife()
 │   └── __main__.py                # CLI entry point
 ├── figures/                       # Generated PDFs
-├── dataset_card.md                # HuggingFace dataset card (Croissant)
-├── REBUTTAL_KIT.md                # Anticipated reviewer Q&A (internal)
-└── FUTURE_WORK.md                 # Extension ideas
+├── release/                       # BCDD release files (per-benchmark JSON)
+└── dataset_card.md                # HuggingFace dataset card (Croissant)
 ```
 
 ## Reproduction
@@ -221,11 +218,9 @@ pdflatex main.tex && pdflatex main.tex
 | MMLU | 3 / 228 (1.3%) |
 | ARC-C | 0 / 200 (0%) |
 
-### Meta-regression
+### Meta-regression (exploratory; treated as a negative result in the paper)
 
-$$\log \tau_{1/2} = 1.44 + 1.03 \cdot \log(\text{diversity}) - 0.04 \cdot \log(n_{\text{items}}), \quad R^2 = 0.61$$
-
-Diversity is the dominant predictor; doubling diversity roughly doubles half-life.
+A log-linear fit on the v1 LLM-era subset (n=6) shows item-diversity (subtask count) correlates with half-life ($r=+0.85$, $p=0.030$, $R^2=0.78$). However, this relationship does **not** survive out-of-sample validation: adding v2 observed half-lives drops the correlation to $r=+0.41$ ($p=0.24$, n=10), and cross-era extension to BERT-era benchmarks gives near-zero correlation. We therefore retain this analysis only as exploratory and do not present diversity as a validated quantitative predictor of half-life. See Appendix M of the paper for full discussion.
 
 ### Triage simulation
 
