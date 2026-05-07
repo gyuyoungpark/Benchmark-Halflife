@@ -159,12 +159,9 @@ python src/forecast_validation.py
 python src/mbpp_retro_holdout.py
 ```
 
-### 5. Compile paper
+### 5. Paper PDF
 
-```bash
-cd paper/neurips2026
-pdflatex main.tex && pdflatex main.tex
-```
+The compiled paper PDF (main text + references + appendices, 35 pages) is available through the OpenReview submission and is not included in this anonymized code/data repository.
 
 ## Data sources
 
@@ -234,7 +231,9 @@ Spearman ρ between policy ranking and oracle ranking on 7 frontier models.
 
 ## License
 
-Code: MIT. Data: subject to upstream licenses (HuggingFace datasets are typically CC-BY or MIT).
+- **Code** (`src/`, `halflife/`): MIT.
+- **BCDD perturbation pairs** (`release/benchmark_contamination_diagnostic_dataset/`): **CC BY 4.0**, the most permissive licence compatible with all source-benchmark licences. Original-item text is included verbatim under each source licence (GSM8K MIT, MMLU/MMLU-PRO MIT, ARC-Challenge CC BY-SA 4.0, TruthfulQA Apache 2.0, HumanEval MIT, MBPP CC BY 4.0); perturbed counterparts are derivative works owned by the authors and released under CC BY 4.0.
+- Full Croissant metadata (core + Responsible AI fields) at `release/benchmark_contamination_diagnostic_dataset/croissant.json`.
 
 ## Citation
 
