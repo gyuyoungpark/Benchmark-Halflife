@@ -66,41 +66,73 @@ def main():
         s = json.dumps(all_results, indent=2, default=lambda x: None if x is None else float(x))
         f.write(s)
 
-    # Plot: halflife vs k for benchmarks that have measurable decay at multiple k
+    # Plot: halflife vs k for all 11 benchmarks
     fig, ax = plt.subplots(figsize=(11, 6))
 
-    # V1 benchmarks
-    v1_names = {'arc_challenge_v1': 'ARC-C', 'hellaswag_v1': 'HellaSwag',
-                'truthfulqa_v1': 'TruthfulQA', 'winogrande_v1': 'WinoGrande', 'gsm8k_v1': 'GSM8K'}
-    v2_names = {'bbh_v2': 'BBH'}
+    # Stable range shading drawn first (background)
+    ax.axvspan(10, 30, color='#888', alpha=0.10, zorder=0)
+    ax.text(20, 0.55, 'k=20% (recommended)', fontsize=8.5, color='#555',
+            ha='center', va='bottom', style='italic', zorder=1)
 
-    colors = {'arc_challenge_v1': '#D32F2F', 'hellaswag_v1': '#C62828',
-              'truthfulqa_v1': '#E64A19', 'winogrande_v1': '#B71C1C',
-              'gsm8k_v1': '#E53935', 'bbh_v2': '#F57C00'}
+    # v1 benchmarks (warm reds): 5 lines, all have multiple points
+    v1_specs = [
+        ('arc_challenge_v1', 'ARC-Challenge (v1)', '#B71C1C', '-'),
+        ('hellaswag_v1',     'HellaSwag (v1)',    '#C62828', '-'),
+        ('truthfulqa_v1',    'TruthfulQA (v1)',   '#D84315', '-'),
+        ('winogrande_v1',    'WinoGrande (v1)',   '#AD1457', '-'),
+        ('gsm8k_v1',         'GSM8K (v1)',        '#E53935', '-'),
+    ]
+    # v2 benchmarks (warm oranges/teals): split by data availability
+    v2_lines = [
+        ('bbh_v2',    'BBH (v2)',    '#E65100', '--'),
+        ('ifeval_v2', 'IFEval (v2)', '#FF8F00', '--'),
+    ]
+    v2_markers = [
+        ('mmlu_pro_v2',  'MMLU-PRO (v2)',  '#00897B', 's'),
+        ('math_lvl5_v2', 'MATH Lvl 5 (v2)', '#1565C0', 'D'),
+        ('gpqa_v2',      'GPQA (v2)',      '#6A1B9A', '^'),
+    ]
 
-    for key, label in {**v1_names, **v2_names}.items():
+    # Lines (multi-point)
+    for key, label, color, linestyle in v1_specs + v2_lines:
         if key not in all_results:
             continue
         ks, hls, lows, highs = [], [], [], []
         for k in k_values:
             v = all_results[key].get(k)
             if v is not None and v.get('point') is not None:
-                ks.append(int(k*100))
+                ks.append(int(k * 100))
                 hls.append(v['point'])
                 lows.append(v.get('ci_lo') or v['point'])
                 highs.append(v.get('ci_hi') or v['point'])
-        if ks:
-            ax.plot(ks, hls, 'o-', label=label, color=colors[key], lw=2, markersize=7)
-            ax.fill_between(ks, lows, highs, color=colors[key], alpha=0.15)
+        if len(ks) >= 2:
+            ax.plot(ks, hls, marker='o', linestyle=linestyle, label=label,
+                    color=color, lw=1.8, markersize=6, zorder=3)
+            ax.fill_between(ks, lows, highs, color=color, alpha=0.12, zorder=2)
 
-    ax.set_xlabel('Top-k stratum (%)', fontsize=12)
+    # Single-point markers (v2 with only k=10% measurable)
+    for key, label, color, marker in v2_markers:
+        if key not in all_results:
+            continue
+        for k in k_values:
+            v = all_results[key].get(k)
+            if v is not None and v.get('point') is not None:
+                ax.scatter([int(k * 100)], [v['point']], marker=marker,
+                           s=70, color=color, edgecolor='white', linewidth=1.0,
+                           label=label + ' (single $k$)', zorder=4)
+                break  # only need one marker
+
+    ax.set_xlabel('Top-$k$ stratum (\\%)', fontsize=12)
     ax.set_ylabel('Discriminative half-life (months)', fontsize=12)
-    ax.set_title('Sensitivity of Half-Life Estimates to Stratum Size', fontsize=13, fontweight='bold')
+    ax.set_title('Sensitivity of half-life to top-$k$ stratum (11 benchmarks)',
+                 fontsize=13, fontweight='bold')
     ax.set_xticks([5, 10, 15, 20, 25, 30, 40, 50])
-    ax.legend(fontsize=10, loc='upper left', ncol=2)
-    ax.grid(True, alpha=0.3)
-    ax.axvspan(10, 30, color='gray', alpha=0.15, label='Stable range')
+    ax.set_xlim(3, 53)
     ax.set_yscale('log')
+    ax.set_ylim(0.5, 250)
+    ax.grid(True, alpha=0.25, which='both')
+    ax.legend(fontsize=8.5, loc='upper right', ncol=2, framealpha=0.95,
+              edgecolor='#888', fancybox=True)
 
     plt.tight_layout()
     plt.savefig(FIG_DIR / "fig_topk_sensitivity.pdf", bbox_inches='tight')

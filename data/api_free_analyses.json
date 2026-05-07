@@ -1,0 +1,159 @@
+{
+  "spot_check_agreement": {
+    "raw_observed": 0.9666666666666667,
+    "cohen_kappa": 0.0,
+    "krippendorff_alpha": 0.0,
+    "note": "Cohen's kappa degenerate because annotator A used only 'equivalent'; we report raw 29/30 (96.7%) as primary statistic."
+  },
+  "universal_memorized_binomial": {
+    "n_items": 200,
+    "n_models": 7,
+    "p_null_per_item": 0.0078125,
+    "expected_under_null": 1.5625,
+    "observed": 11,
+    "p_value": 6.64244355075283e-07
+  },
+  "mmlu_pro_per_subject": [
+    {
+      "subject": "history",
+      "n": 14,
+      "mean_gap": 0.1547619047619048,
+      "std": 0.2311486647493762
+    },
+    {
+      "subject": "economics",
+      "n": 14,
+      "mean_gap": 0.13095238095238096,
+      "std": 0.3284074815269934
+    },
+    {
+      "subject": "psychology",
+      "n": 14,
+      "mean_gap": 0.08333333333333333,
+      "std": 0.22493385271060928
+    },
+    {
+      "subject": "law",
+      "n": 14,
+      "mean_gap": 0.04761904761904762,
+      "std": 0.1325658181626196
+    },
+    {
+      "subject": "physics",
+      "n": 14,
+      "mean_gap": 0.03571428571428571,
+      "std": 0.1687791295090217
+    },
+    {
+      "subject": "engineering",
+      "n": 14,
+      "mean_gap": 0.02380952380952381,
+      "std": 0.17657615445465863
+    },
+    {
+      "subject": "philosophy",
+      "n": 14,
+      "mean_gap": 7.93016446160826e-18,
+      "std": 0.1543033499620919
+    },
+    {
+      "subject": "biology",
+      "n": 14,
+      "mean_gap": 0.0,
+      "std": 0.06299407883487121
+    },
+    {
+      "subject": "other",
+      "n": 14,
+      "mean_gap": -3.96508223080413e-18,
+      "std": 0.10910894511799621
+    },
+    {
+      "subject": "computer science",
+      "n": 14,
+      "mean_gap": -0.011904761904761894,
+      "std": 0.19379548328690127
+    },
+    {
+      "subject": "business",
+      "n": 14,
+      "mean_gap": -0.011904761904761902,
+      "std": 0.14725377234348788
+    },
+    {
+      "subject": "chemistry",
+      "n": 14,
+      "mean_gap": -0.011904761904761908,
+      "std": 0.14725377234348788
+    },
+    {
+      "subject": "math",
+      "n": 14,
+      "mean_gap": -0.02380952380952381,
+      "std": 0.13883218797250715
+    },
+    {
+      "subject": "health",
+      "n": 14,
+      "mean_gap": -0.03571428571428571,
+      "std": 0.1687791295090217
+    }
+  ],
+  "akhtar_correlations": {
+    "n": 6,
+    "pearson_r": 0.6088976665552301,
+    "pearson_p": 0.19952984393741877,
+    "spearman_rho": 0.08571428571428573,
+    "spearman_p": 0.8717434402332361,
+    "kendall_tau": 0.06666666666666665,
+    "kendall_p": 1.0,
+    "spearman_ci_95": [
+      -1.0,
+      1.0
+    ]
+  },
+  "gsm8k_cross_vendor": {
+    "gpt_mean_gap": 0.13374999999999998,
+    "claude_mean_gap": 0.13166666666666668,
+    "abs_diff": 0.002083333333333298,
+    "permutation_p_value": 0.9421,
+    "n_perm": 100000
+  },
+  "icc_perturbation_holdout": {
+    "gsm8k": {
+      "icc_orig": 0.11808457086770767,
+      "icc_pert": 0.3142719850854355,
+      "n_items": 200
+    },
+    "mmlu_pro": {
+      "icc_orig": 0.24693199051061507,
+      "icc_pert": 0.2514025592132332,
+      "n_items": 196
+    },
+    "mmlu": {
+      "icc_orig": 0.23207816039221552,
+      "icc_pert": 0.23788437985017602,
+      "n_items": 228
+    },
+    "arc": {
+      "icc_orig": 0.1954337526646937,
+      "icc_pert": 0.20368844722323623,
+      "n_items": 200
+    },
+    "humaneval": {
+      "icc_orig": 0.049485308542178585,
+      "icc_pert": 0.20981878636805062,
+      "n_items": 164
+    },
+    "mbpp": {
+      "icc_orig": 0.3575023980550941,
+      "icc_pert": 0.3902792599519002,
+      "n_items": 200
+    },
+    "truthfulqa": {
+      "icc_orig": 0.12547894003499327,
+      "icc_pert": 0.1834063310255734,
+      "n_items": 200
+    }
+  }
+}

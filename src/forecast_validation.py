@@ -131,7 +131,7 @@ def main():
         ax.set_title(f"{meta['name']}", fontweight="bold")
         ax.set_xlabel("Months from Q1 2024")
         ax.set_ylabel("Top-20% variance")
-        ax.legend(fontsize=8, loc="best")
+        ax.legend(fontsize=8, loc="best", frameon=False)
         ax.grid(True, alpha=0.3)
 
     for j in range(len(FORECASTS), len(axes)):

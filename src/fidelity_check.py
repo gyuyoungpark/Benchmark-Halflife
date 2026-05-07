@@ -104,14 +104,13 @@ def main():
         orig_acc = np.array(r['orig_acc'])
         pert_acc = np.array(r['pert_acc'])
         ax.scatter(orig_acc, pert_acc, alpha=0.4, s=30, color='#1976D2')
-        ax.plot([0, 1], [0, 1], 'k--', alpha=0.5, label='y=x (perfect fidelity)')
+        ax.plot([0, 1], [0, 1], 'k--', alpha=0.5)
         ax.set_xlabel('Original item accuracy (mean across 4 models)', fontsize=10)
         ax.set_ylabel('Perturbation item accuracy', fontsize=10)
         ax.set_xlim(0, 1.02)
         ax.set_ylim(0, 1.02)
-        ax.set_title(f"{bench.upper()}\nPearson r = {r['pearson_acc']:.3f}, mean shift = {r['mean_shift']:+.3f}",
+        ax.set_title(f"{bench.upper()}  $r = {r['pearson_acc']:.3f}$,  shift $ = {r['mean_shift']:+.3f}$",
                      fontsize=11, fontweight='bold')
-        ax.legend(fontsize=8)
         ax.grid(True, alpha=0.3)
 
     plt.tight_layout()

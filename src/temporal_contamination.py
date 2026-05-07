@@ -115,7 +115,7 @@ def plot_distribution(results, path):
                      fontsize=11, fontweight='bold')
         ax.set_xlabel("Per-item Δgap / year")
         ax.set_ylabel("Item count")
-        ax.legend()
+        ax.legend(frameon=False)
         ax.grid(True, alpha=0.3)
     plt.tight_layout()
     plt.savefig(path, bbox_inches='tight')

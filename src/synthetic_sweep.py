@@ -211,27 +211,29 @@ def main():
 
     # K_mu scatter
     ax = axes[0]
-    ax.scatter(df['K_mu_true'], df['K_mu_estimated'],
-               c=df['contam_rate'], cmap='Reds', s=60, alpha=0.8, edgecolor='black')
+    sc1 = ax.scatter(df['K_mu_true'], df['K_mu_estimated'],
+                     c=df['contam_rate'], cmap='Reds', s=60, alpha=0.8, edgecolor='black')
     lim = max(df['K_mu_true'].max(), df['K_mu_estimated'].max()) * 1.1
-    ax.plot([0, lim], [0, lim], 'k--', alpha=0.5, label='y=x')
+    ax.plot([0, lim], [0, lim], 'k--', alpha=0.5)
     ax.set_xlabel('True $K_\\mu$ (mean contamination gap)', fontsize=11)
     ax.set_ylabel('Estimated $K_\\mu$', fontsize=11)
     ax.set_title('Recovery: Mean Contamination Gap', fontsize=12, fontweight='bold')
-    ax.legend()
     ax.grid(True, alpha=0.3)
+    cb1 = fig.colorbar(sc1, ax=ax, fraction=0.046, pad=0.04)
+    cb1.set_label('Injected contamination rate', fontsize=9)
 
     # G scatter
     ax = axes[1]
-    ax.scatter(df['G_true'], df['G_estimated'],
-               c=df['growth_rate'], cmap='Blues', s=60, alpha=0.8, edgecolor='black')
+    sc2 = ax.scatter(df['G_true'], df['G_estimated'],
+                     c=df['growth_rate'], cmap='Blues', s=60, alpha=0.8, edgecolor='black')
     lim_g = max(df['G_true'].max(), df['G_estimated'].max()) * 1.1
-    ax.plot([0, lim_g], [0, lim_g], 'k--', alpha=0.5, label='y=x')
+    ax.plot([0, lim_g], [0, lim_g], 'k--', alpha=0.5)
     ax.set_xlabel('True $G$ (genuine convergence)', fontsize=11)
     ax.set_ylabel('Estimated $G$', fontsize=11)
     ax.set_title('Recovery: Genuine Convergence', fontsize=12, fontweight='bold')
-    ax.legend()
     ax.grid(True, alpha=0.3)
+    cb2 = fig.colorbar(sc2, ax=ax, fraction=0.046, pad=0.04)
+    cb2.set_label('Capability growth rate', fontsize=9)
 
     plt.tight_layout()
     plt.savefig(FIG_DIR / "fig_synthetic_recovery.pdf", bbox_inches='tight')

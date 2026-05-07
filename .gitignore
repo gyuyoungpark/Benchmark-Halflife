@@ -50,3 +50,6 @@ REBUTTAL_KIT.md
 
 # Large raw leaderboard dumps (kept locally; not needed for reproduction)
 data/leaderboard/v1_scores_full.csv
+
+# OpenReview submission bundle (uploaded separately, not pushed to repo)
+bcdd_supplementary.zip

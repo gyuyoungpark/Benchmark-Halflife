@@ -209,14 +209,13 @@ def main():
         deltas = np.array(all_results[bench]['delta_b_per_item'])
         ax.hist(deltas, bins=30, color='#1976D2', edgecolor='black', alpha=0.8)
         ax.axvline(0, color='black', linestyle='--', alpha=0.5)
-        ax.axvline(-1, color='red', linestyle=':', alpha=0.7, label='Δb = -1 (contamination)')
+        ax.axvline(-1, color='red', linestyle=':', alpha=0.7)
         n_contam = (deltas < -1).sum()
         n_total = len(deltas)
-        ax.set_title(f"{bench_labels[bench]}\n{n_contam}/{n_total} items with Δb < -1 ({100*n_contam/n_total:.1f}%)",
+        ax.set_title(f"{bench_labels[bench]} — {100*n_contam/n_total:.1f}% items with $\\Delta b < -1$",
                      fontsize=11, fontweight='bold')
-        ax.set_xlabel('Δb = b_orig − b_pert  (negative = easier on original)', fontsize=10)
+        ax.set_xlabel(r'$\Delta b$', fontsize=11)
         ax.set_ylabel('Count')
-        ax.legend(fontsize=8)
         ax.grid(True, alpha=0.3, axis='y')
 
     plt.tight_layout()

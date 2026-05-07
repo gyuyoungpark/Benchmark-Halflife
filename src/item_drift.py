@@ -176,14 +176,17 @@ def main():
     x = np.arange(len(benchmarks))
 
     bottom = np.zeros(len(benchmarks))
+    cat_label_y = {}  # remember mid-y per category on the first benchmark for inline labels
     for cat in categories_to_plot:
         vals = [all_results[b]['category_fractions'].get(cat, 0) for b in benchmarks]
-        ax.bar(x, vals, bottom=bottom, label=pretty[cat], color=colors[cat],
+        ax.bar(x, vals, bottom=bottom, color=colors[cat],
                edgecolor='black', linewidth=0.5)
         for i, v in enumerate(vals):
             if v > 0.05:
                 ax.text(i, bottom[i] + v/2, f'{v*100:.0f}%', ha='center', va='center',
                        color='white', fontweight='bold', fontsize=10)
+        if vals[0] > 0:
+            cat_label_y[cat] = bottom[0] + vals[0] / 2
         bottom += vals
 
     ax.set_xticks(x)
@@ -191,8 +194,15 @@ def main():
     ax.set_ylabel('Fraction of items', fontsize=12)
     ax.set_title('Item-Level Drift Categories Across 4 GPT Generations',
                  fontsize=13, fontweight='bold')
-    ax.legend(loc='upper left', bbox_to_anchor=(1.02, 1), fontsize=9)
+    ax.set_xlim(-0.6, len(benchmarks) - 0.4 + 1.6)
     ax.set_ylim(0, 1.05)
+
+    # Inline category labels (replaces legend box) — colored text to the
+    # right of the bars, vertically aligned with each segment.
+    for cat, y_mid in cat_label_y.items():
+        ax.text(len(benchmarks) - 0.4 + 0.15, y_mid, pretty[cat],
+                color=colors[cat], fontsize=9, fontweight='bold',
+                ha='left', va='center')
 
     plt.tight_layout()
     plt.savefig(FIG_DIR / "fig_item_drift.pdf", bbox_inches='tight')
